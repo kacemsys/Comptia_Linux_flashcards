@@ -1,0 +1,7 @@
+A systems administrator notices a large number of autoloaded device modules are no longer
+needed and decides to do a cleanup of them. Which of the following commands will accomplish
+this task?
+A. rmmod -c
+B. depmod -r
+C. insmod -c
+D. modprobe -r

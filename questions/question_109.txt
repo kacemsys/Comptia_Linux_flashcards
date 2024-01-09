@@ -1,0 +1,7 @@
+Which of the following are Linux desktop managers? (Choose two.)
+A. KDE
+B. GNOME
+C. GUI
+D. VNC
+E. X11
+F. SPICE

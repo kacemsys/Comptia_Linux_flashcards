@@ -1,0 +1,7 @@
+A Linux administrator is testing connectivity to a remote host on a shared terminal. The
+administrator wants to allow other users to access the terminal while the command is executing.
+Which of the following commands should the administrator use?
+A. bg ping remotehost
+B. fg ping remotehost
+C. ping remotehost < results
+D. ping remotehost &

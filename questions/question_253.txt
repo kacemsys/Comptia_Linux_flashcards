@@ -1,0 +1,6 @@
+Which of the following can be used to check the status of wireless devices that are connected to
+the system?
+A. lsusb
+B. iwconfig
+C. netstat
+D. ifconfig

@@ -1,0 +1,15 @@
+A Linux administrator needs to configure a new firewall without an existing ACL to allow incoming
+web traffic. The firewall must log the allowed network traffic. Which of the following command
+sequences would accomplish this task when they are executed in order?
+A. iptables –A INPUT –p tcp --dport 80 –J LOG
+iptables –A INPUT –p tcp --dport 443 –J LOG
+iptables –I INPUT –p tcp --dport 80 –J ACCEPT
+iptables –I INPUT –p tcp --dport 443 –J ACCEPT
+B. iptables –I INPUT –m multiport –p tcp --dports 80,443 –J LOG
+iptables –I INPUT –m multiport –p tcp --dports 80,443 –J ACCEPT
+C. iptables –A INPUT –m multiport –p tcp --dports 80,443 –J LOG
+iptables –A INPUT –m multiport –p tcp --dports 80,443 –J ACCEPT
+D. iptables –A INPUT –p tcp --dport 80 –J ACCEPT
+iptables –A INPUT –p tcp --dport 443 –J ACCEPT
+iptables –A INPUT –p tcp --dport 80 –J LOG
+iptables –A INPUT –p tcp --dport 443 –J LOG

@@ -1,0 +1,8 @@
+An administrator is reviewing updates in the master online Git repository and notices a file
+named . The file contains passwords and should only be in the administrator's local repository,
+not the .htaccess
+online one. Which of the following would prevent this file from appearing online in the future?
+A. git commit -m ""File Update"" -x .htaccess
+B. sed -i 's/#Preserve Hidden=True/Preserve Hidden=True/g' .git/config
+C. chown nobody:nodoby .htaccess
+D. echo "".htaccess"" >> .gitignore

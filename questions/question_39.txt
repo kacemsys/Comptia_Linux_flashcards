@@ -1,0 +1,8 @@
+A systems administrator must clean up all application files in the directory /var/log/app. However,
+the company's security policy requires the files to be kept on the backup server for one year. The
+Linux server has only the tar and bzip2 packages installed.
+Which of the following commands will package and compress the files?
+A. tar –zcvf applicationfiles.tar.bz2 /var/log/app/*
+B. tar –jcvf applicationfiles.tar.bz2 /var/log/app/*
+C. tar –cvf applicationfiles.tar.bz2 /var/log/app/*
+D. tar –xvf applicationfiles.tar.bz2 /var/log/app/*

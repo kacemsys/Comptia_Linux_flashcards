@@ -1,0 +1,11 @@
+A systems engineer scheduled an at job that will reboot a critical server. A developer states the
+processes will not complete for another three hours.
+Which of the following will help the systems engineer to remove the job?
+A. atq
+atrm <at job number>
+B. at -q
+atrm <PID>
+C. atq
+atrm <PID>
+D. at -q
+atrm <at job number>

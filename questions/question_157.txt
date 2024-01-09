@@ -1,0 +1,5 @@
+Which of the following is true about Type 2 hypervisors?
+A. Type 2 hypervisors run on top of another general purpose OS.
+B. Type 2 hypervisors are often called bare-metal or native hypervisors.
+C. Type 2 hypervisors offer a performance increase to the guests in comparison to a Type 1 hypervisor.
+D. Only Type 2 hypervisors allow direct access to CPU virtualization features.

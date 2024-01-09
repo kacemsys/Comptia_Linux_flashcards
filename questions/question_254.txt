@@ -1,0 +1,7 @@
+A Linux user needs to create a file named newfile in the home directory that mirrors the contents
+of the /etc/resolv.conf file.
+Which of the following commands would accomplish this task?
+A. cat /etc/resolv.conf > /home/user/newfile
+B. echo /etc/resolv.conf > /home/user/newfile
+C. grep /etc/resolv.conf < /home/user/newfile
+D. printf /etc/resolv.conf > /home/user/newfile

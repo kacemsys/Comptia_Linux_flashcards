@@ -1,0 +1,6 @@
+A Linux administrator needs to remove a USB drive from a system. The unmount command fails,
+stating the device is busy. Which of the following commands will show the reason for this error?
+A. lsusb | grep /mnt/usb
+B. mount | grep /mnt/usb
+C. ps aux | grep /mnt/usb
+D. lsof | grep /mnt/usb

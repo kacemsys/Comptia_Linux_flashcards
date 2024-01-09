@@ -1,0 +1,7 @@
+A systems administrator wants to disable the isofs module on the server.
+Which of the following will allow the administrator to check if the isofs module is currently in
+use?
+A. modprobe
+B. insmod
+C. rmmod
+D. lsmod

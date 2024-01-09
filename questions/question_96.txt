@@ -1,0 +1,5 @@
+Which of the following statements BEST represents what the term ""agentless"" means regarding orchestration?
+A. Installation of a tool is not required on the remote system to perform orchestration tasks
+B. It facilitates version control when using infrastructure as code during orchestration
+C. It automatically removes malware from the remote system during orchestration
+D. A tool can only be accessed remotely to perform orchestration tasks

@@ -1,0 +1,5 @@
+Which of the following is a difference between YAML and JSON?
+A. Users can comment in YAML but not in JSON
+B. JSON only curly brackets, while YAML only uses square brackets
+C. JSON is used in web development, while YAML is used solely in back-end systems.
+D. YAML has been deprecated for JSON.

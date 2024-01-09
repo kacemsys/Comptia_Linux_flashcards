@@ -1,0 +1,7 @@
+A server, which is used to collect data about the network and datacenter environment via SNMP,
+is running out of space. Which of the following should the server administrator implement to
+reduce disk utilization?
+A. journald
+B. Snapshots
+C. logrotate
+D. tar -cvf

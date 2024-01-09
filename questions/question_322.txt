@@ -1,0 +1,6 @@
+A Linux administrator needs to know the MAC address of the server’s gateway.
+Which of the following commands should the administrator run to obtain this information?
+A. arp -gw
+B. arp -a
+C. arp -gwi
+D. arp -gtw

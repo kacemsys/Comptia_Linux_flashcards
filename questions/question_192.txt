@@ -1,0 +1,11 @@
+A junior administrator is installing kernel modules. The administrator is given a checklist that
+outlines the following tasks to be completed:
+- Display currently installed module version.
+- Display which modules loaded at startup.
+Which of the following commands would be used to accomplish these tasks? (Choose two.)
+A. cat /etc/issue
+B. insmod
+C. lsmod
+D. rmmod
+E. depmod
+F. dmesg

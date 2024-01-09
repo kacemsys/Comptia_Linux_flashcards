@@ -1,0 +1,9 @@
+A systems administrator clones copies of a Linux VM every time a new Linux server is needed.
+The administrator notices the command prompt always states localhost.localdomain.
+Which of the following should the administrator run to have the command prompt consistently
+labeled as Server1 rather than localhost.localdomain?
+A. host Server1
+B. echo ""127.0.0.1 Server1 Server1.localdomain"" >> /etc/hosts
+C. hostnamectl set-hostname ""Server1"" --pretty
+D. hostnamectl set-hostname Server1 --transient
+E. hostnamectl set-hostname Server1.localdomain --static

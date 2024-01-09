@@ -1,0 +1,8 @@
+A Linux administrator tried to copy files to a remote server but received an error message
+indicating a lack of free space on the disk. The administrator issued a df command and verified
+adequate free space and inodes on the filesystem.
+Which of the following commands is the BEST way to diagnose the issue?
+A. cat /proc/meminfo
+B. lsof -nP | grep deleted
+C. find / -type f -size +50M
+D. du -a / | sort -n -r | head -n 30

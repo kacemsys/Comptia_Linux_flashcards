@@ -1,0 +1,7 @@
+A Linux administrator needs to schedule a cron job to run at 1:15 p.m. every Friday to report the
+amount of free disk space on the system and to send the output to a file named ""freespace"".
+Which of the following would meet this requirement?
+A. 13 15 * * 5 df > /freespace
+B. 15 13 * * 5 df > /freespace
+C. 15 1 * * 6 df > /freespace
+D. 15 13 6 * * df > /freespace

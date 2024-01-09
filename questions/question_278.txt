@@ -1,0 +1,8 @@
+A Linux administrator is configuring a server to log security events for the ping command while
+allowing the request to occur. The Linux server is using AppArmor to manage its security
+services.
+Which of the following commands is the BEST option?
+A. aa-complain /bin/ping
+B. aa-disable /bin/ping
+C. aa-unconfined /bin/ping
+D. aa-enforce /bin/ping

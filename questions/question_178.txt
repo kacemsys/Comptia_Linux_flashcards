@@ -1,0 +1,6 @@
+During the final step of staging new Linux hardware, GRUB2 is installed to the system drive.
+Which of the following BEST describes the role of GRUB2 in a new Linux installation?
+A. It provides a menu for creating administrator task shortcuts.
+B. It provides a menu for running special shell scripts.
+C. It provides a method to partition a hard drive.
+D. It provides a method to pass parameters to the Linux kernel on startup.

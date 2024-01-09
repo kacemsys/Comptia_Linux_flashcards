@@ -1,0 +1,5 @@
+Which of the following BEST describes the purpose of the X11 system?
+A. X11 provides graphical display capabilities
+B. X11 provides command line capabilities
+C. X11 provides networking capabilities
+D. X11 provides telephony capabilities.

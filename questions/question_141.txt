@@ -1,0 +1,11 @@
+Ann, a Linux administrator, wants to edit a configuration management file. When she opens the
+file to edit, her text editor reports that the file has been opened in read-only mode. She then tries
+to edit the file as root by elevating via sudo and is still unable to save any changes. The error
+message in her text editor says that the read-only option is set on the file. Ann checks the
+permissions on the file and sees the following:
+-rw-rw-r-- 1 root wheel 30 Jun 13 15:38 infrastructure.yml
+Which of the following commands is the BEST option to allow her to successfully modify the file?
+A. chmod 600 infrastructure.yml
+B. chown root: infrastructure.yml
+C. chattr -i infrastructure.yml
+D. chmod o+w infrastructure.yml

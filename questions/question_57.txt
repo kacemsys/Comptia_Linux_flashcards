@@ -1,0 +1,9 @@
+An administrator needs to change the IP address on a server remotely. After updating the
+configuration files, a network restart is needed. However, the administrator fears that when the
+network connection drops, the network restart script will be killed before the new IP address has
+been set.
+Which of the following commands would prevent the script from being killed?
+A. nohup service network restart
+B. service network restart &
+C. echo ""service network restart"" | at now
+D. dg service network restart

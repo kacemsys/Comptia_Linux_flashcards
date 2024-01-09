@@ -1,0 +1,6 @@
+
+Which of the following would the application parsing this file MOST likely have to support?
+A. YAML
+B. AJAX
+C. JSON
+D. SOAP

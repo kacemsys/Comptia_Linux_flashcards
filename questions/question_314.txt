@@ -1,0 +1,8 @@
+A systems administrator has retrieved the latest copy of the system backup files, which had been
+stored offsite at a third-party vendor. The systems administrator wants to validate that the data
+was not modified since the backup.
+Which of the following would BEST verify that the data remained the same?
+A. Perform a MD5 hash on the data.
+B. Perform a SCP from the backup.
+C. Perform rsync.
+D. Restore from the last full backup.

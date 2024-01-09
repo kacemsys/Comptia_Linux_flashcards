@@ -1,0 +1,9 @@
+Ann, a junior systems administrator, is required to add a line to the /etc/yum.conf file. However, she receives the following error message when she tries to add the line:
+
+Ann performs some diagnostics to attempt to find the root cause:
+
+Which of the following commands should Ann execute to write content to /etc/yum?
+A. chmod 755 /etc/yum.conf
+B. setfacl –m m:rw /etc/yum.conf
+C. chattr –I /etc/yum.conf
+D. setenforce 0

@@ -1,0 +1,7 @@
+A user creates and installs a Linux VM on a local workstation. The VM can only connect to the
+local workstation.
+Which of the following BEST represents the default virtual network configuration in this instance?
+A. Host-only
+B. Bridged
+C. NAT
+D. Dual-homed

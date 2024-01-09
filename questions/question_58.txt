@@ -1,0 +1,9 @@
+A Linux administrator is testing a new web application on a local laptop and consistently shows
+the following 403 errors in the laptop's logs""
+
+The web server starts properly, but an error is generated in the audit log. Which of the following
+settings should be enabled to prevent this audit message?
+A. httpd_can_network_connect = 1
+B. httpd_enable_scripting = 1
+C. httpd_enable_homedirs = 1
+D. httpd_enable_cgi = 1

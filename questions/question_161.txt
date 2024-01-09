@@ -1,0 +1,6 @@
+A user wants to use terminal services from a Windows workstation to manage a Linux server.
+Which of the following should be installed on the Linux server to enable this functionality?
+A. VNC
+B. rdesktop
+C. SPICE
+D. XRDP

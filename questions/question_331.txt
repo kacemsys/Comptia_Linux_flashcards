@@ -1,0 +1,6 @@
+Which of the following directories will help an administrator identify the specifications of a Linux
+server in term of resources?
+A. /sys
+B. /Proc
+C. /Var
+D. /usr

@@ -1,0 +1,6 @@
+Two specific users need access to a directory owned by root where backups are located.
+Which of the following commands would BEST ensure the specified users can access the backup files?
+A. umask
+B. chcon
+C. chmod
+D. setfacl

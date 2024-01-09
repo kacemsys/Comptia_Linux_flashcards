@@ -1,0 +1,8 @@
+Joe, a user, is unable to log in to the server and contacts the systems administrator to look into
+the issue. The administrator examines the /etc/passwd file and discovers the following entry:
+joe:x:505:505::/home/joe:/bin/false
+Which of the following commands should the administrator execute to resolve the problem?
+A. usermod –s /bin/bash joe
+B. passwd –u joe
+C. useradd –s /bin/bash joe
+D. chage –E -1 joe

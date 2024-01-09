@@ -1,0 +1,6 @@
+A systems administrator needs to retrieve specific fields from a csv file. Which of the following
+tools would accomplish this task?
+A. awk
+B. sort
+C. print
+D. echo

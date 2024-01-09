@@ -1,0 +1,6 @@
+Which of the following is the MOST common method used to access Windows systems that are
+running in a cloud provider from a Linux system?
+A. SSH
+B. NX
+C. XRDP
+D. VNC

@@ -1,0 +1,1 @@
+Answer: A A junior administrator issues the following commands on a Linux server:

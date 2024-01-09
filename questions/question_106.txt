@@ -1,0 +1,6 @@
+An administrator needs to see a list of the system user's encrypted passwords.
+Which of the following Linux files does the administrator need to read?
+A. /etc/shadow
+B. /etc/skel
+C. /etc/passwd
+D. /etc/pw

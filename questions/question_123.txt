@@ -1,0 +1,9 @@
+The development team has automated their software build process so each time a change is
+submitted to the source code repository, a new software build is compiled. They are requesting
+that the Linux operations team look into automating the deployment of the software build into the
+test environment. Which of the following is the benefit to the development team for implementing
+deployment automation?
+A. To ensure the build commits are also deployed to the test environment
+B. To enable notifications when builds are deployed to the test environment
+C. To ensure software builds in test are not accidentally deployed to production
+D. To streamline the deployment process for deploying builds into test environments

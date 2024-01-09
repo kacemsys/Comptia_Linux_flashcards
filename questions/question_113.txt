@@ -1,0 +1,7 @@
+following should the administrator use to minimize the amount of interaction with the consoles
+needed?
+A. Kickstart script
+B. Ghost image on a distribution server
+C. Hard disk duplicator
+D. Hard disk duplicator
+E. Ubiquity script

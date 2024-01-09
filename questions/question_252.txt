@@ -1,0 +1,13 @@
+The following represents a partial listing of a user's .bashrc file:
+HISTSIZE=800
+HISTFILESIZE=1000
+umask 2002
+HISTCONTROL=ignoreboth
+When the user opens a terminal, an error message appears:
+Octal number out of range
+Which of the following lines in the partial .bashrc should be modified to prevent the error from
+occurring?
+A. HISTSIZE=800
+B. HISTFILESIZE=1000
+C. umask 2002
+D. HISTCONTROL=ignoreboth

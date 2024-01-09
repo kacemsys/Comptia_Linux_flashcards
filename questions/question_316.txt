@@ -1,0 +1,7 @@
+An administrator is trying to optimize a connection to an off-site NFS server.
+Which of the following commands would BEST display the problems with packet sizes between
+hops on the network?
+A. tracepath
+B. ping
+C. tracert
+D. nmap

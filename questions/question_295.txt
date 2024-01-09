@@ -1,0 +1,6 @@
+Which of the following techniques would BEST allow a client computer to connect to a server that
+is not normally accessible because the server’s application port is blocked by a firewall?
+A. X11 forwarding
+B. TCP wrappers
+C. RDP
+D. SSH port forwarding

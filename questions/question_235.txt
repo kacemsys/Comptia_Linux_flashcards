@@ -1,0 +1,7 @@
+Which of the following are classified as Linux GUI servers? (Choose two.)
+A. VNC
+B. KDE
+C. Gnome
+D. Wayland
+E. MATE
+F. X11

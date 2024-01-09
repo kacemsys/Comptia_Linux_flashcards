@@ -1,0 +1,8 @@
+A junior administrator is migrating a virtual machine from a Type 1 hypervisor to a Type 2
+hypervisor.
+To ensure portability, which of the following formats should the administrator export from the Type
+1 hypervisor to ensure compatibility?
+A. OWASP
+B. VDI
+C. VMDK
+D. OVA

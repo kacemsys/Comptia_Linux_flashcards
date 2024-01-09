@@ -1,0 +1,7 @@
+While installing third-party software, a technician wants to monitor logs on the system
+continuously.
+Which of the following commands should the technician issue to monitor the logs?
+A. cat /var/log/kern.log
+B. grep -e /var/log/httpd/access.log
+C. head -n /var/log/secure
+D. tail -f /var/log/messages

@@ -1,0 +1,8 @@
+A Linux team is using Git to version a set of custom scripts. A team member has made an update
+to a script and published the changes to the repository.
+Which of the following is the BEST way to retrieve the latest changes to the administrator's local
+working copy?
+A. git fetch
+B. git merge
+C. git commit
+D. git pull

@@ -1,0 +1,9 @@
+A systems administrator is unable to reach other devices on the network and the Internet. The
+server is configured with the IP address 192.169.1.50/24 on eth0. The server’s router is
+192.168.1.1. The administrator reviews the output of route –n:
+
+Which of the following commands should the administrator run to correct the issue?
+A. route del default gw 192.168.2.1 eth0; route add default gw 192.168.1.1 eth0
+B. route add -net 192.168.10.0 netmask 255.255.255.0 gw 192.168.2.1 eth0
+C. route add 192.168.1.1 default 192.168.1.50 eth0
+D. route host gw 192.168.1.1 eth0

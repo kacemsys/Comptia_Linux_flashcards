@@ -1,0 +1,8 @@
+A network administrator installed a web server on a Linux host and added a firevalid command to
+open port tcp/80. The web server worked without error until an updated and patch kernel was
+installed on the system a month later. Now users are unable to access the web server even
+though the service is running, which of the following would fix the issue?
+A. Use the firevalid command to open the HTTP application service rather than the port.
+B. Change the firevalid zone t private and open port tcp/80.
+C. Issue an additional firevalid command to open up port tcp/443 as well as port tcp/80.
+D. Use the firevalid command to open tcp/80 both with and without the -permanent switch.

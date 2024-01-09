@@ -1,0 +1,7 @@
+A systems administrator wants to deploy several applications to the same server quickly. Each
+application should be abstracted from the host with its own dependencies and libraries and utilize a minimal footprint.
+Which of the following would be BEST in this scenario?
+A. Virtual machines
+B. Type 2 hypervisor
+C. Chroot jails
+D. Containers

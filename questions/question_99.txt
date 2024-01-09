@@ -1,0 +1,6 @@
+An administrator is tasked with increasing the size of the volume /dev/vg/lv to 20GB. Which of the
+following BEST illustrates the steps the administrator should take?
+A. vgextend –L20G /dev/vg/lv; resizelv /dev/vg/lv
+B. parted –L20G /dev/vg/lv; remount /dev/vg/lv
+C. mkfs –L20G /dev/vg/lv; tune2fs /dev/vg/lv
+D. lvextend –L20G /dev/vg/lv; resize2fs /dev/vg/lv

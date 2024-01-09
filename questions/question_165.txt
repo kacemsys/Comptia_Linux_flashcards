@@ -1,0 +1,6 @@
+A user has been locked out of an account due to too many failed password attempts. Which of
+the following commands will unlock the user's account?
+A. pam_tally2 --user=user --reset
+B. passwd -u user -G root
+C. usermod -u user -G root
+D. chage -1 user=user --reset

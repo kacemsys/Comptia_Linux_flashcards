@@ -1,0 +1,7 @@
+Which of the following commands will result in the HOGEST compression level when using gzig
+to compress a file name file, txt?
+A. Gzip -9 file. text
+B. Gzip -100-file. Text
+Crip -high file.txt
+C. Gzip -5 file.txt
+D. Gzip -fast file. text

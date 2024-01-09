@@ -1,0 +1,12 @@
+A junior Linux administrator is installing patches using YUM. The administrator issues the
+following command:
+yum list installed
+The output of the command is as follows:
+
+
+Given this scenario and the output, which of the following should the administrator do to address
+this issue?
+A. renice –n 9 –p 5180
+B. killall yum
+C. ps –ef | grep yum
+D. top | grep yum

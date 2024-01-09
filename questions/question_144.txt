@@ -1,0 +1,9 @@
+Ann, a user, has created a new directory and noticed that permissions on the new directory are
+as follows:
+drwx------. 1 ann ann 0 Jun 11 08:20 work
+Which of the following should the administrator do to restore default permissions for newly
+created directories?
+A. Change umask value in /etc/profile.
+B. Run chmod command to update permissions.
+C. Modify directory ownership to ann:ann with chown.
+D. Execute chattr command to restore default access.

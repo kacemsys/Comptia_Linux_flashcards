@@ -1,0 +1,14 @@
+Users are reporting collaborate.company.com is inaccessible from the user VLAN, but there
+is no issue connecting to the system’s web page from the DMZ. Given the following outputs from
+commands run on the system:
+
+Which of the following explains why users are unable to access the system from the user VLAN,
+and how can the administrator remediate this issue?
+A. Users cannot access the system because the IP subnet mask is /24. The remediation for this
+issue is to set the IP subnet mask to /16.
+B. Users cannot access the system because the DNS server has the incorrect IP address. The
+remediation for this issue is to edit the DNS configuration to point to the correct IP.
+C. Users cannot access the system because the connectivity port is running on the incorrect IP. The
+remediation for this issue is to edit the configuration file to listen on all interfaces.
+D. Users cannot access the system because the default gateway has the wrong interface. The
+remediation for this issue is to set the default gateway to the proper interface.

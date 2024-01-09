@@ -1,0 +1,12 @@
+A system ran out of storage space on a particular mount and will not allow anything to be written
+to disk. The df command shows there are 6GB free on the mount, and there is no inode
+exhaustion. This issue has happened before due to a known large log file that was not being
+rotated. The administrator remembers the file name but cannot remember the location of the log
+file or which process is writing to it.
+Which of the following would be the BEST solution to correct this issue while maintaining
+availability?
+A. Use the lsof command to find where the large log file is located and truncate it
+B. Use the locate command to find where the large log file is located and delete it
+C. Use the du command to find where the large log file is located and delete it
+D. Use the ps command to find which process is writing to the log file, and then kill and restart the
+process

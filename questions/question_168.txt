@@ -1,0 +1,11 @@
+A technician wants to secure a sensitive workstation by ensuring network traffic is kept within the
+local subnet. To accomplish this task, the technician executes the following command:
+echo 0 > /proc/sys/net/ipv4/ip_default_ttl
+Which of the following commands can the technician use to confirm the expected results?
+(Choose two.)
+A. tcpdump
+B. traceroute
+C. route
+D. iperf
+E. ip
+F. arp

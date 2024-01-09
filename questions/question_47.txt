@@ -1,0 +1,5 @@
+Which of the following is the BEST reason for not storing database files in the /var directory?
+A. The /var filesystem is not fast enough for database files.
+B. The number of files in /var is limited by the available inodes.
+C. Files in /var do not have strict file permissions.
+D. If log files fill up /var, it might corrupt the database.

@@ -1,0 +1,5 @@
+Which of the following server roles would MOST likely be found in a PXE boot environment?
+A. Web
+B. DNS
+C. Proxy
+D. DCHP

@@ -1,0 +1,7 @@
+A Linux administrator receives the following while attempting to remove a file:
+
+Which of the following commands will resolve the issue?
+A. cattr -i test.txt
+B. setfacl -m u:root:x test.txt
+C. chmod -0775 test.txt
+D. chcon -u system_u test.txt

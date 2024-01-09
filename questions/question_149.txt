@@ -1,0 +1,11 @@
+QUESTION 153
+A systems administrator installs a simple package, but the Linux system returns the following
+error: rpmdb . To verify if there is a problem in the RPM database, the systems administrator runs
+the open fails following command:
+
+Which of the following commands should the systems administrator run NEXT to resolve this
+issue?
+A. cd/var/lib/rpm; rpm --rebuilddb ; rm -f _db*; yum clean all
+B. cd/var/lib/rpm; rpm -qd; rpm --rebuilddb; yum clean all
+C. cd/var/lib/rpm; rpm -qa; rm -f _db*; yum clean all
+D. cd/var/lib/rpm; rm -f _db*; rpm --rebuilddb; yum clean all

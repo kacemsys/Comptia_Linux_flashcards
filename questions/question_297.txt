@@ -1,0 +1,10 @@
+The following tools help maintain consistency across different systems in an infrastructure:
+SUSE Manager
+Red Hat Satellite
+Spacewalk
+If a system file is changed, the tools roll back the file to a predefined configuration.
+Which of the following concepts BEST describes this behavior?
+A. Build automation
+B. Infrastructure as code
+C. Automated configuration management
+D. Agentless system management

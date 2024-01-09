@@ -1,0 +1,7 @@
+A company wants to provide internal identity verification services for networked devices. Which of
+the following servers should be installed?
+A. SSH
+B. VPN
+C. CA
+D. DHCP
+E. DNS

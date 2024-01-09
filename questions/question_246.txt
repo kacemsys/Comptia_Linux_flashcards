@@ -1,0 +1,13 @@
+A technician suspects a company's border firewall is down, thus blocking Internet access. The
+technician executes the following commands:
+#ping -c 1 firewall.company.com
+64 bytes from firewall.company.com (192.168.1.1): icmp_seq=1 ttl=64
+time=0.061ms
+#ping -c 16 www.comptia.com
+16 packets transmitted, 0 received, 100% packet loss, time 14999ms
+Which of the following commands should the technician use to BEST determine the source of this
+outage?
+A. tcpdump
+B. nmap
+C. dig
+D. traceroute

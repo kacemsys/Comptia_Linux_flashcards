@@ -1,0 +1,6 @@
+A systems administrator needs to conduct maintenance on a server.
+Which of the following commands will place the administrator in the appropriate runlevel?
+A. init 0
+B. telinit 1
+C. init 3
+D. telinit 6

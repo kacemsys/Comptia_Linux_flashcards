@@ -1,0 +1,8 @@
+An administrator is installing a Linux VM on a personal hypervisor. The administrator wants to
+have the VM's IP address on the same network as the hypervisor host so the VM has the same
+network properties as the physical interface of the host. To which of the following should the
+administrator set the network properties?
+A. Host-only network
+B. NAT network
+C. Bridge network
+D. Overlay network

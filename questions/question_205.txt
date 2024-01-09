@@ -1,0 +1,6 @@
+A systems administrator wants to install a new application that requires the newmod kernel
+module. Which of the following commands should the systems administrator use?
+A. lsof newmod
+B. modinfo newmod
+C. lsmod newmod
+D. modprobe newmod

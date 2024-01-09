@@ -1,0 +1,6 @@
+The administrator runs the following commands as part of troubleshooting:
+Which of the following is MOST likely resolve the issue?
+A. Allow outbound DNS traffic to the internal DNS server.
+B. Add a public DNS for fileshare, example, internal.
+C. Install a caching DNS server on the local workstation.
+D. Update resolve, conf to use the internal DNS server.

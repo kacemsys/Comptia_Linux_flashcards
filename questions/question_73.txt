@@ -1,0 +1,17 @@
+A junior Linux administrator is setting up system-wide configuration settings. The goal is to ensure
+the PATH environment variable includes the following locations for all users who log into a Linux system.
+
+The administrator issues the following commands at the terminal:
+
+Respectively, the output of these commands is as follows:
+
+Given this output, which of the following would be the BEST action for the administrator to
+perform to address this issue?
+A. Update the /etc/profile.d file using a text editor, navigate to the PATH element add the missing locations,
+and run the bash_completion.sh script to update the changes.
+B. Update the /etc/profile file using a text editor, navigate to the PATH element, add the missing locations
+and run the . /etc/profile command to update the changes.
+C. Update the /etc/profile.d file using a text editor, navigate to the PATH element, add the missing
+locations, and reboot to update the changes.
+D. Update the /etc/profile file using a text editor navigate to the PATH element, add the missing locations,
+and restart the bash process to update the changes.

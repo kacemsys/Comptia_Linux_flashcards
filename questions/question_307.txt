@@ -1,0 +1,5 @@
+Which of the following server roles is MOST appropriate to route files to multifunction devices?
+A. Proxy
+B. Router
+C. Print server
+D. Web server

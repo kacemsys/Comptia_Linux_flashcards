@@ -1,0 +1,12 @@
+A networked has been crashing intermittently. A Linux administrator would like to write a shell
+script that will attempt to ping the server and email an alert if the server fails to respond. The
+script will later be scheduled via cron job.
+Which of the following scripts would BEST accomplish this task?
+
+A.
+
+B. 
+
+C.
+
+D.

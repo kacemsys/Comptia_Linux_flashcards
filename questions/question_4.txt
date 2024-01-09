@@ -1,0 +1,9 @@
+A Linux systems administrator needs to set permissions on an application with the following parameters:
+- The owner of the application should be able to read, write, and execute the application.
+- Members of the group should be able to read and execute the application.
+- Everyone else should not have access to the application.
+Which of the following commands would BEST accomplish these tasks?
+A. chmod 710 <application name>
+B. chmod 730 <application name>
+C. chmod 750 <application name>
+D. chmod 760 <application name>

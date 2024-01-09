@@ -1,0 +1,19 @@
+A junior administrator is configuring local name lookups for fully qualified domain names in an
+isolated environment. The administrator is given a checklist and must accomplish the following
+tasks:
+- Add localhost with loopback address.
+- Add 192.168.192.12/24 to resolve to database01.comptia.org
+Given this scenario, which of the following steps should the administrator perform to accomplish
+these tasks?
+A. Open the /etc/nsswitch.conf file with a file editor and add the following lines:
+127.0.0.1 localhost
+192.168.192.12 database01.comptia.org
+B. Open the /etc/dhcpd.conf file with a file editor and add the following lines:
+127.0.0.1 localhost
+192.168.192.12 database01.comptia.org
+C. Open the /etc/hosts file with a file editor and add the following lines:
+127.0.0.1 localhost
+192.168.192.12 database01.comptia.org
+D. Open the /etc/network file with a file editor and add the following lines:
+127.0.0.1 localhost
+192.168.192.12 database01.comptia.org

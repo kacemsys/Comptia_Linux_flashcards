@@ -1,0 +1,8 @@
+A systems administrator is configuring options on a newly installed Linux VM that will be deployed
+to the Pacific time zone.
+Which of the following sets of commands should the administrator execute to accurately configure
+the correct time settings?
+A. cd /etc ln –s /usr/share/zoneinfo/US/Pacific localtime
+B. cd /usr/local ln –s /usr/share/zoneinfo/US/Pacific zoneinfo
+C. cd /etc/local ln –s /usr/share/zoneinfo/US/Pacific localtime
+D. cd /usr/share/local ln –s /usr/share/zoneinfo/US/Pacific localectl

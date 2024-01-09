@@ -1,0 +1,30 @@
+SIMULATION
+Find the file named core and remove it from the system.
+INSTRUCTIONS
+Type “help” to display a list of available commands.
+If at any time you would like to bring back the initial state of the simulation, please click the Reset
+All button.
+
+" "
+find . -type f -name core -delete
+" "
+A Linux administrator has installed a web application firewall in front of a web server running on
+HTTP port 8080 and successfully started the HTTP server. However, after opening the
+application URL in an Internet browser, the administrator discovered that the application does not
+work. The administrator performed the following diagnostic steps:
+Output of sysctl -a command:
+
+Output of iptables -L command:
+
+Output of netstat –nltop | grep ""8080"":
+
+Which of the following is the NEXT step the administrator should perform to permanently fix the
+issue at the kernel level?
+A. sysctl -w net.ipv4.ip_forward=1 then run sysctl -w /etc/sysctl.conf to enable
+the change
+B. Edit /etc/sysctl.conf file and add net.ipv4.ip_forward = 1 then run sysctl -p
+/etc/sysctl.conf to enable the change
+C. Add iptables rule iptables -A INPUT -m state --state NEW -p tcp --dport 8080
+-j then restart httpd daemon
+D. Add iptables rule iptables -A FORWARD-m state --state NEW -p tcp --dport 8080
+–j ACCEPT then restart httpd daemon

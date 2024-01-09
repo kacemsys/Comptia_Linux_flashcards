@@ -1,0 +1,8 @@
+A systems administrator needs to run the yum update command two hours after employees log
+off and leave for the day on Friday.
+Which of the following is the BEST command to complete the task, if the task only needs to be
+run once?
+A. screen
+B. cron
+C. at
+D. nohup

@@ -1,0 +1,8 @@
+A technician recently installed Linux on a desktop computer.
+The desktop has two graphics cards from two different vendors. One of the graphics cards works,
+but the other does not.
+Which of the following commands should the technician use to start troubleshooting this issue?
+A. Ismod
+B. Vmstat
+C. Gdm
+D. startx

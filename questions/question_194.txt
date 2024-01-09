@@ -1,0 +1,7 @@
+A Linux administrator is helping the security team troubleshoot an SELinux policy violation
+incident. Which of the following would be the BEST utility command to display SELinux violation
+and AVC denial messages?
+A. journalctl | grep sealert
+B. sealert -a /var/log/audit/audit.log
+C. aureport | grep AVC
+D. cat /var/log/messages | grep selinux

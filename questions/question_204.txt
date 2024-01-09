@@ -1,0 +1,7 @@
+A raw VM image is being compressed with bzip2 and copied to a flash drive at /dev/hdb for offsite
+use by the marketing department.
+Which of the following command lines accomplishes this task?
+A. mv /vm/mkgt.img | bzip2 /dev/hdb/mkgt.img.bz2
+B. bzip2 -c /vm/mktg.img | dd of=/dev/hdb
+C. cp /vm/mktg.img | bzip2 /dev/hdb/mktg.img.bz2
+D. cp -a -r /vm/mktg.img bzip2 /dev/hdb/mktg.img.zip

@@ -1,0 +1,8 @@
+A systems administrator is using a Linux laptop to troubleshoot network devices. The
+administrator runs the following command:
+# screen /dev/USB0
+Which of the following does this command MOST likely accomplish?
+A. It copies the network traffic from the device connected to USB0 and screens out rejected traffic.
+B. It logs all troubleshooting output from the monitor to external USB0 storage.
+C. It monitors USB0 waiting for a network device to be connected to it as an Ethernet device.
+D. It allows the administrator to interact with the character device connected to USB0.

@@ -1,0 +1,6 @@
+Given that a company's policy states that users cannot install third-party tools on Window
+servers, which of the following protocols will allow a Linux GUI to connect to a Windows server?
+A. VNC
+B. NX
+C. RDP
+D. X11

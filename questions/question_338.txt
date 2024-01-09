@@ -1,0 +1,9 @@
+An administrator clones a Git repository onto a local laptop. While inspecting the code, the
+administrator notices a bug and wants to fix it.
+Which of the following is the BEST command for the administrator to use to test a patch for the
+prior to updating the version saved in master?
+A. Init
+B. Branch
+C. Stash
+D. Comit
+E. merge

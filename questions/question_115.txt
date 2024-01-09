@@ -1,0 +1,9 @@
+A Linux administrator installed a new network adapter and temporarily disabled the network
+service from starting on boot. The partial output of chkconfig is as follows:
+Which of the following commands BEST describes how the administrator should re-enable the
+network service?
+A. chkconfig --level 0 network on
+B. chkconfig --level 0-6 network on
+C. chkconfig --level 6 network on
+D. chkconfig --level 12 network on
+E. chkconfig --level 345 network on

@@ -1,0 +1,9 @@
+An administrator needs to kill the oldest Bash shell running in the system.
+Which of the following commands should be issued to accomplish this task?
+A. ps axjf | grep bash to obtain PID
+kill -9 PID
+B. ps –eo pid,etime,cmd | grep bash (to obtain PID)
+kill -9 PID
+C. ps –eo pid,etime| grep bash (to obtain PID)
+killall -9 PID
+D. killall -15 -o bash

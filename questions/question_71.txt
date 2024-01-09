@@ -1,0 +1,7 @@
+A junior administrator needs to unload an older video kernel module.
+Which of the following commands would BEST accomplish this task?
+A. modprobe
+B. insmod
+C. rmmod
+D. chmod
+E. depmod

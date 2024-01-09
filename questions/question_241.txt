@@ -1,0 +1,9 @@
+Users in the sales department are unable to create new files in the shared directory /Sales. A
+junior Linux administrator determines the permissions on the /Sales directory are set to rwxr-----,
+and sales is the group owner of the directory.
+Which of the following is the BEST command for the junior administrator to issue to allow the
+users to create new files?
+A. umask 002
+B. chmod 770 /Sales
+C. chmod g+s /Sales
+D. chmod 777 /Sales

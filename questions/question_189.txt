@@ -1,0 +1,8 @@
+A storage administrator in a virtualized environment has been told by a user that there is no
+space left on the volume to which the user can write. However, a check reveals that there is
+20GB of unused space.
+Which of the following explains the discrepancy?
+A. The drive is not formatted
+B. The drive is thin provisioned
+C. The drive is thick provision eager zeroed
+D. The drive space is overallocated

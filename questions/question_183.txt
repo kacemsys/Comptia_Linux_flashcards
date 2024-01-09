@@ -1,0 +1,7 @@
+An issue was discovered on a testing branch of a Git repository. A file was inadvertently modified
+and needs to be reverted to the master branch version. Which of the following is the BEST option
+to resolve the issue?
+A. git branch -b master file
+B. git merge master testing
+C. git stash branch master
+D. git checkout master -- file

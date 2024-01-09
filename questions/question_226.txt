@@ -1,0 +1,15 @@
+A Linux administrator receives a call from the network operations team that one of the database
+applications is down on a Linux server. The Linux server is configured with RAID 1 for
+redundancy, and the array /dev/md0 consists of two devices called /dev/sda1 and /dev/sdb1.
+After looking at the status of the RAID 1 array in the /proc/mdstat file, the administrator discovers
+the RAID 1 array is degraded and the disk /dev/sdb1 on which the database application was
+installed appears to have failed.
+
+Which of the following steps should the administrator take to remove the device /dev/sdb1 from
+the RAID array md0? (Choose two.)
+A. mdadm /dev/md0 --remove /dev/sdb1
+B. mdadm /dev/sdb1 --fail /dev/md0
+C. mdadm /dev/md0 --fail /dev/sdb1
+D. mdadm /dev/sdb1 --remove /dev/md0
+E. racadm --remove /dev/sdb1
+F. racadm --fail /dev/sdb1

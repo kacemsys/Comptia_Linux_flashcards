@@ -1,0 +1,5 @@
+Which of the following commands would disable the use of Bluetooth?
+A. echo ""blacklist bluetooth"" > /etc/modprobe.d/blacklist-bluetooth
+B. echo ""kill bluetooth"" > /etc/modprobe.d/kill-bluetooth
+C. echo ""modprobe bluetooth"" > /etc/modprobe.d/modprbe-bluetooth
+D. echo ""rmod bluetooth"" > /etc/modprobe.d/rmmod-bluetooth

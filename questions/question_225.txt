@@ -1,0 +1,7 @@
+A user receives an access_denied error when trying to modify a file, even though the file
+permissions are set to 777. Which of the following commands should be used to view additional
+file permissions?
+A. getsebool
+B. getenforce
+C. ls -z
+D. ps -z

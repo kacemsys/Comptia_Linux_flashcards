@@ -1,0 +1,7 @@
+A systems administrator logs into a Linux server and must identify whether the server is a
+physical or virtual machine.
+Which of the following commands should the administrator run?
+A. vmstat
+B. cat /proc/cpuinfo
+C. dmidecode
+D. modinfo

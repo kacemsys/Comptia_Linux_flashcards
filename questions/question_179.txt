@@ -1,0 +1,8 @@
+A site reliability engineer updated the latest configuration management scripts and committed
+them to a workstream called either test or patch. A Linux administrator wants to ensure these
+latest workstreams are able to be retrieved to the server.
+Which of the following is the BEST Git attribute to use?
+A. branch
+B. fetch
+C. log
+D. pull

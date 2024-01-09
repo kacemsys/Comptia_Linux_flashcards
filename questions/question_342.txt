@@ -1,0 +1,3 @@
+A system administrator recently installed and configure a web proxy server with the IP address
+192.68 address.
+What is the should be implemented on then proxy server to ensure traffic is processes.

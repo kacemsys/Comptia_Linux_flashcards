@@ -1,0 +1,7 @@
+A junior Linux administrator needs to create 16 empty files quickly that will contain sales
+information for each quarter for the past four years.
+Which of the following commands will meet this requirement?
+A. touch {2015,2016,2017,2018}.{q1,q2,q3,q4}
+B. touch [2015,2016,2017,2018].[q1,q2,q3,q4]
+C. touch `2015,2016,2017,2018`.`q1,q2,q3,q4`
+D. touch {2015.2016.2017.2018}.{q1.q2.q3.q4}

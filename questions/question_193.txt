@@ -1,0 +1,5 @@
+Which of the following commands can be used to accomplish this task?
+A. cat /sys/proc/meminfo
+B. cat /proc/meminfo
+C. cat /proc/sys/meminfo
+D. cat /sys/meminfo

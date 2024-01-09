@@ -1,0 +1,7 @@
+A Linux administrator wants to include a standard, hash_profile file whenever a new local user is
+created on Linux server.
+Which of the following is the BEST location to place the file?
+A. /User/local/
+B. /etc/skel/
+C. /etc/profile.d/
+D. /Home/default_user/

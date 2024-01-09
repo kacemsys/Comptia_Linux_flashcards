@@ -1,0 +1,5 @@
+Which of the following is the purpose of the monitoring server role?
+A. To aggregate web traffic to watch which websites employees are visiting
+B. To collect status and performance information about the servers in an environment
+C. To provide user authentication services to a network
+D. To provide real-time analysis of potential threats to the organization

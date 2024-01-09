@@ -1,0 +1,9 @@
+A directory called /employee is shared with many employees in a company. New hardware was
+acquired, and the systems administrator needs to back up all files in /employee before the
+server is replaced.
+Which of the following commands should be used to back up all the files and compress them to
+use little space in the filesystem?
+A. tar -zcvf backup.tar.gz /employee
+B. tar -zxvf backup.tar.gz /employee
+C. tar -Cvf backup.tar.gz /employee
+D. tar -Tpf backup.tar.gz /employee

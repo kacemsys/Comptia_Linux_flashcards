@@ -1,0 +1,7 @@
+A Linux administrator suspects unauthorized users are attempting to log in to the Linux server
+remotely.
+Which of the following should the administrator check FIRST?
+A. /var/log/messages
+B. /var/log/secure
+C. /var/log/dmesg
+D. /var/log/kern.log

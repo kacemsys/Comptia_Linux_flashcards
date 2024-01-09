@@ -1,0 +1,7 @@
+An administrator is reviewing suspicious activity on a server and needs to determine which users
+logged into the system within the past 24 hours.
+Which of the following commands should the administrator run to determine this?
+A. last
+B. who
+C. id
+D. usermod

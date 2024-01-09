@@ -1,0 +1,7 @@
+the IP 10.10.10.1.
+Which of the following commands should the administrator execute to determine the default
+gateway of the server?
+A. route -n
+B. ip a default-gw
+C. ifconfig
+D. nslookup

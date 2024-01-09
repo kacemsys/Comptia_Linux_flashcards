@@ -1,0 +1,11 @@
+A Linux administrator has configured a local named caching server to reduce the amount of time
+to resolve common DNS addresses. The server resolves using the external server, however; the
+administrator wants to avoid this configuration. The administrator verifies the named, conf
+settings to confirm the following relevant settings:
+The administrator then runs dig twice to look up an external address and receives the following
+relevant output the second time.
+Which of the following should the administrator do to correct the configuration?
+A. Modify /etc/resolve.config and set nameserver to 127.0.0.1
+B. Add 1270.0.1 to the forwards in the named confi file.
+C. Alias the dig commands to use nslookup instead.
+D. Configure the name service in system to be masked

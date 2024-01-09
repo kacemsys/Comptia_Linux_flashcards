@@ -1,0 +1,7 @@
+In which of the following Linux GUI environments would the Konsole application MOST likely be
+found?
+A. Gnome
+B. KDE
+C. Cinnamon
+D. Unity
+E. MATE

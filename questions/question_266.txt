@@ -1,0 +1,8 @@
+A systems administrator notices several intensive tasks executing from users Joe and Ann.
+These processes are impacting server operations but must be allowed to continue running.
+Which of the following commands should the systems administrator run to reduce the impact on
+the server?
+A. pkill -u joe ann
+B. renice 11 -u joe ann
+C. nohup -u joe ann
+D. strace -u joe ann

@@ -1,0 +1,7 @@
+A system administrator needs to bootstrap a series of Ubuntu images for a public provider. The
+administrator must ensure at the images contain the exact same updates, custom. Configure files after their first and then automatically.
+Which of the following tools the administrator user?
+A. Ansible
+B. Docker
+C. Cloud-init
+D. Anaconda

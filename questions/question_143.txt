@@ -1,0 +1,6 @@
+An administrator needs to generate a list of services that are listening on TCP and/or UDP ports.
+Which of the following tools should the administrator use?
+A. ethtool
+B. route
+C. netstat
+D. portmap

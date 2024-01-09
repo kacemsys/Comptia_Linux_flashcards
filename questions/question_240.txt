@@ -1,0 +1,9 @@
+Given the output below:
+[root@appserver ~]# rm config.txt
+rm: remove regular file 'config.txt'? yes
+rm: cannot remove 'config.txt': Operation not permitted
+Which of the following might be the cause?
+A. The file config.txt does not have the user write bit set.
+B. The file config.txt does not exist.
+C. The file config.txt has the immutable attribute set.
+D. The file config.txt has an ACL that does not permit deletion by others.

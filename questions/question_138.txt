@@ -1,0 +1,22 @@
+Drag and Drop Question
+
+As a Systems Administrator, to reduce disk space, you were tasked to create a shell script that
+does the following:
+
+Add relevant content to /tmp/script.sh, so that it finds and compresses rotated files in /var/log
+without recursion.
+
+INSTRUCTIONS
+
+Fill the blanks to build a script that performs the actual compression of rotated log files.
+
+If at any time you would like to bring back the initial state of the simulation, please click the Reset
+All button.
+
+" "Answer:" "
+Hotspot Question
+After installing a new web server, you are unable to browse to the default web page.
+INSTRUCTIONS
+Review all the command output and select the command needed to remediate the issue.
+If at any time you would like to bring back the initial state of the simulation, please click the Reset All button.
+

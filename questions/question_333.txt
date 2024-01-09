@@ -1,0 +1,2 @@
+Which of the following commands should a Linux administrator use to open the firewall to allow
+incoming database connections?

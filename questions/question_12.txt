@@ -1,0 +1,7 @@
+An operator finds a user is having issues with opening certain files.
+Which of the following commands would allow the security administrator to list and check the
+SELinux context?
+A. ls –D
+B. ls –a
+C. ls –Z
+D. ls -1

@@ -1,0 +1,6 @@
+A Linux storage administrator wants to create a logical volume group.
+Which of the following commands is required to start the process?
+A. pvcreate
+B. vgcreate
+C. lvcreate
+D. mkfs.xfs

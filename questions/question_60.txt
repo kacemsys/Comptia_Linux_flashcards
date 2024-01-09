@@ -1,0 +1,5 @@
+Which of the following configuration files should be modified to disable Ctrl-Alt-Del in Linux?
+A. /etc/inittab
+B. ~/.bash_profile
+C. /etc/securetty
+D. /etc/security/limits.conf

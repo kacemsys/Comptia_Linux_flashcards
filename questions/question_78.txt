@@ -1,0 +1,7 @@
+A systems administrator configured a new kernel module, but it stopped working after reboot.
+Which of the following will allow the systems administrator to check for module problems during
+server startup?
+A. lsmod
+B. modprobe
+C. modinfo
+D. dmesg

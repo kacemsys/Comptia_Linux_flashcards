@@ -1,0 +1,9 @@
+A systems administrator documents the instructions on the internal wiki regarding how to turn the
+company's code into Debian packages. The instructions include the commands used to compile,
+what tests need to be run, the commands to convert the raw code into a package that apt or dpkg
+can manage, as well as an explanation of each command.
+Which of the following is this an example of?
+A. Infrastructure as code
+B. Attributes
+C. Procedures
+D. Configuration management

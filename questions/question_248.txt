@@ -1,0 +1,7 @@
+A Linux user needs to connect to a remote email server named mail.foo.com through the SMTP
+port.
+Which of the following commands will accomplish this task?
+A. traceroute mail.foo.com 25
+B. netcat mail.foo.com 25
+C. traceroute mail.foo.com 110
+D. netcat mail.foo.com 110

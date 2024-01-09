@@ -1,0 +1,6 @@
+An administrator receives the following message on a remote server: Cannot open display. Which
+of the following should the administrator have used to log in to the server?
+A. xrdp –h server.company.com
+B. ssh –X server.company.com
+C. xvnc server.company.com
+D. rdesktop server.company.com

@@ -1,0 +1,8 @@
+A junior administrator of a physical server receives log messages indicating the out-of-memory
+killer has been active. All memory slots are in use on the motherboard, but additional disk space
+is available. Space has been allocated for a swap file.
+Which of the following should the administrator use to reduce the output of memory messages?
+A. free : swapoff / swapfile ; swapon -a
+B. mkswap /swapfile; swapon –a
+C. fallocate –l 2G /swapfile && swapon –a
+D. echo “1” > /proc/meninfo ; swapon / swapfile

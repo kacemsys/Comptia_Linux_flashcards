@@ -1,0 +1,9 @@
+A user attempts to use the mount -a command but gets the following error:
+mount: mount point /mnt/test does not exist
+Which of the following commands best describes the action the Linux administrator should take
+NEXT?
+A. mount –a /mnt/test
+B. mkdir –p /mnt/test
+C. mdadm –p /mnt/test
+D. mkfs /mnt/test
+E. touch /mnt/test

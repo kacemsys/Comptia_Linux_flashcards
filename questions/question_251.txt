@@ -1,0 +1,5 @@
+Which of the following servers provides encrypted tunnel SOCKS services?
+A. SNMP
+B. VPN
+C. CA
+D. SSH

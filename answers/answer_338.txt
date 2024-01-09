@@ -1,0 +1,1 @@
+Answer: B A Linux administrator is investigating an issue with an internal Linux server that is unable to resolve the following internal addresses:

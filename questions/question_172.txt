@@ -1,0 +1,12 @@
+A junior Linux administrator is performing version control on a Git repository. The administrator is
+given a list of tasks to complete:
+- List the currently installed Git release.
+- Show the status reporting of the clone.
+Which of the following commands would allow the administrator to complete these tasks?
+(Choose two.)
+A. git clone --progress
+B. git clone --recursive
+C. git --help
+D. git clone --dissociate
+E. git --version
+F. git clone --shared

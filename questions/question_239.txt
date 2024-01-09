@@ -1,0 +1,9 @@
+The Apache web server was recently installed on a Debian/Ubuntu server. The web server fails
+and a review of log messages on another partition reveals the installation was not completed
+properly due to lack of disk space. After clearing the files, the systems administrator has
+requested the installation to be performed again.
+Which of the following command lines will perform this task? (Choose two.)
+A. apt-get install apache2
+B. apt-get --purge remove acache2
+C. apt-get --reinstall install apache2
+D. apt-get --reinstall apache2

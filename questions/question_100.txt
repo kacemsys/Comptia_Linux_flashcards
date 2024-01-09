@@ -1,0 +1,14 @@
+Drag and Drop Question
+The lead Linux has added a disk, /dev/sdd, to a VM that is running out of disk space. Place the
+following steps in the correct order from first (1) to last (4) to add the disk to the existing LVM.
+
+" pvcreate /dev/sdd
+vgextend vgdata /dev/sdd
+lvextend -L +10GV /dev/napper/vgdata-data
+resize2fa /dev/mapper/vgdata-data
+A systems administrator observes high latency values when reaching a remote web server.
+Which of the following commands will help determine and isolate issues on the network side?
+A. mtr
+B. dig
+C. netstat
+D. route

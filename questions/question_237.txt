@@ -1,0 +1,8 @@
+A user wants to alias dir so it always returns the contents of the ls -la command. However, the
+user has to reset the alias with every login.
+Which of the following is the BEST action the user can take to ensure the command is always
+available?
+A. echo ""alias dir=ls -la"" > /etc/profile
+B. echo ""alias dir=ls -la"" >> /etc/skel
+C. echo ""alias dir=ls -la"" >> ~/.profile
+D. echo ""alias dir=ls -la"" > ~/.bashrc

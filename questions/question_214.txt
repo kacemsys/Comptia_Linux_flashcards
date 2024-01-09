@@ -1,0 +1,6 @@
+An administrator needs to change the DNS domain search order of a single Linux host to localize
+it better. Which of the following files should the administrator edit?
+A. /etc/resolv.conf
+B. /etc/hosts
+C. /etc/nsswitch.conf
+D. /etc/dhcpd.conf

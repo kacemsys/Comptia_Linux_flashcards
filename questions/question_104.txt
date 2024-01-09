@@ -1,0 +1,7 @@
+A new HTTPS web service is being deployed on a server.
+Which of the following commands should the Linux administrator use to ensure traffic is able to
+flow through the system firewall to the new service?
+A. iptables –I OUTPUT –p tcp --sport 443 –j ACCEPT
+B. iptables –A INPUT –p tcp --dport 443 –j ACCEPT
+C. iptables –I INPUT --dport 443 –j ACCEPT
+D. iptables –A OUTPUT –p tcp --dport 443 –j ACCEPT

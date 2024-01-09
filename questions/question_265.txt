@@ -1,0 +1,12 @@
+Joe, a user, reports there is data missing after a reboot of the system he is using. The data he
+was working on was located in /opt/data/user1. A Linux administrator runs the following
+commands and receives the resulting output.
+
+Which of the following should the administrator perform to resolve the issue?
+A. The administrator can conclude Joe no longer has permissions to his data and needs to change
+the data ownership to Joe.
+B. The administrator can conclude the data is gone from the system and needs to be restored from a
+backup.
+C. The administrator can conclude Joe has been using the wrong folder and should be using
+/opt/data/user2.
+D. The administrator can conclude the drive is not mounted properly and should be remounted.

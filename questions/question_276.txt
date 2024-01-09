@@ -1,0 +1,8 @@
+After cloning a remote repository, a new feature of that project needs to be developed and
+integrated into the next major release.
+Which of the following is the first Git operation to run to begin working on this new feature
+immediately after the clone?
+A. merge
+B. init
+C. diff
+D. branch

@@ -1,0 +1,8 @@
+A systems administrator needs to install a new piece of hardware that requires a new driver.
+The driver should be manually installed.
+Which of the following describes the order of commands required to obtain module information,
+install the module, and check the log for any errors during module installation?
+A. lsmod, modprobe, modinfo
+B. modinfo, insmod, modprobe
+C. modinfo, insmod, dmesg
+D. lsmod, insmod, dmesg

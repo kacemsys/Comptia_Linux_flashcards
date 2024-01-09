@@ -1,0 +1,8 @@
+A new video card was added to a customer workstation. To get the new video card to work
+correctly, a systems administrator needs to remove support for the nouveau video driver on the
+Linux workstation.
+Which of the following will accomplish this task?
+A. Use rmmod -f nouveau.
+B. Use modprobe -R nouveau.
+C. Add blacklist nouveau to /etc/modprobe.d/blacklist.conf.
+D. Add blacklist nouveau to /etc/modprobe.conf.

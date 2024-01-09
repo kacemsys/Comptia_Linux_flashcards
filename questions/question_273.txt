@@ -1,0 +1,10 @@
+A systems administrator uses a remote execution engine to iterate through each IP address in a
+network and run a script on remote hosts. The script captures the remote system's hostname, IP
+address, OS distribution, and system uptime. The output of the script gets saved to the
+administrator's local workstation for future processing.
+Which of the following is this an example of?
+A. Performance monitoring
+B. Inventory
+C. Agentless
+D. Infrastructure as code
+E. Build automation

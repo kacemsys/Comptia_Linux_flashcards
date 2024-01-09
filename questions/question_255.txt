@@ -1,0 +1,14 @@
+An administrator notices a website hosted on an httpd web server is not loading. Upon further
+inspection, the administrator learns there are no httpd processes running. When starting the
+service, the site operates correctly for a few minutes before the process disappears again.
+Which of the following should the administrator consider as the MOST likely possibility before
+troubleshooting the issue?
+A. The CPU has too much load, causing it to overheat, and the kernel is automatically killing the processes to keep the CPU cool.
+B. An external database to which the web server connects is offline, causing httpd to die due to
+execution errors.
+C. Shared libraries, which were recently updated, are causing compatibility issues and httpd to die
+due to version mismatch.
+D. The out-of-memory killer was activated due to low available memory, causing the kernel to kill the
+processes automatically.
+E. The server is intermittently losing access to the network, causing socket errors that trigger httpd
+to die.

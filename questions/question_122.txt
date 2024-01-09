@@ -1,0 +1,6 @@
+A Linux systems administrator is setting up SSH access with PKI for several using their newly
+created RSA keys. Which of the following MOST securely achieves this task?
+A. Use curl to copy each user's public key file to the respective system
+B. Use cp to copy each user's public key file to the respective system
+C. Use ssh-copy-id to copy each user's public key file to the respective system
+D. Use ssh-copy-id to copy each user's private key file to the respective system

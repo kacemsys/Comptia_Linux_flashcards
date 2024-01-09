@@ -1,0 +1,8 @@
+A system administrator has set up third-party log aggregation agents across several cloud
+instances. The systems administrator wants to create a dashboard of failed SSH attempts and
+the usernames used.
+Which of the following files should be watched by the agents?
+A. /var/log/audit/audit.log
+B. /var/log/kern.log
+C. /var/log/monitor
+D. /etc/rsyslog.conf

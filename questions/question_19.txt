@@ -1,0 +1,7 @@
+A systems administrator has finished building a new feature for the monitoring software in a
+separate Git branch.
+Which of the following is the BEST method for adding the new feature to the software's master branch?
+A. Merge the changes from the feature branch to the master branch.
+B. Save the changes to the master branch automatically with each Git commit.
+C. Clone the feature branch into the master branch.
+D. Pull the changes from the feature branch into the master branch.

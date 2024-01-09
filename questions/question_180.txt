@@ -1,0 +1,7 @@
+A systems administrator wants to disable the Linux Kernel WatchDog Timer Driver for security
+purposes.
+Which of the following will accomplish this task?
+A. Add blacklist watchdog to the /etc/modprobe.d/blacklist file.
+B. Rename the /etc/modprobe.d/watchdog file to watchdog.off instead.
+C. Remove the watchdog=1 from the /usr/modules/watchdog.conf file.
+D. Add watchdog=0 to the /etc/modprobe.conf file.

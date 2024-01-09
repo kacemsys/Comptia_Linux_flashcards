@@ -1,0 +1,7 @@
+Which of the following commands brings a system running SysV init into a state in which it is safe
+to perform maintenance tasks? (Choose TWO correct answers.)
+A. shutdown -R 1 now
+B. shutdown -single now
+C. init 1
+D. telinit 1
+E. runlevel 1

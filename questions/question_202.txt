@@ -1,0 +1,14 @@
+An administrator has a CSV file named hosts.csv. The contents of hosts.csv include the following:
+192.168.2.57,lnx1prd.example.com,Linux,Production
+192.168.2.58,lnx2prd.example.com,Linux,Production
+192.168.1.4,server15.example.com,Windows,Development
+The administrator needs to create a second comma-separated list of only the Linux server IP
+addresses. Which of the following commands would achieve this need?
+A. for ip in $(grep “Linux” hosts.csv | cut –d”,” –f1); do echo –n “$ip,”;
+done
+B. for ip in $( cut –d”,” –f1 hosts.csv | grep “Linux”); do echo –n “$ip,”;
+done
+C. for ip in $(grep “Linux” hosts.csv | sed “/$1//’); do echo –n “$ip,”;
+done
+D. for ip in $(awk –F, ‘{print $1}’ hosts.csv | grep “Linux”); do echo –n
+“$ip,”; done

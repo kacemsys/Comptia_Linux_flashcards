@@ -1,0 +1,7 @@
+Which of the following are init systems used within Linux systems? (Choose THREE correct
+answers.)
+A. startd
+B. systemd
+C. Upstart
+D. SysInit
+E. SysV init

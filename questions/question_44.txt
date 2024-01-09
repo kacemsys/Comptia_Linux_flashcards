@@ -1,0 +1,5 @@
+Which of the following is the device file name for the second partition on the only SCSI drive?
+A. /dev/hda1
+B. /dev/sda2
+C. /dev/sd0a2
+D. /dev/sd1p2

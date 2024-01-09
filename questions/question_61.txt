@@ -1,0 +1,5 @@
+During a system boot cycle, what program is executed after the BIOS completes its tasks?
+A. The bootloader
+B. The inetd program
+C. The init program
+D. The kernel

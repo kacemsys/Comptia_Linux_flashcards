@@ -1,0 +1,12 @@
+A junior systems administrator needs to schedule a backup script named /scripts/backup.sh and
+make the correct changes to the crontab.
+Which of the following crontab entries would run the script every Monday at 2:05 a.m.?
+A. 1 * * 5 2
+/scripts/backup.sh
+B. 2 5 * * 1
+/scripts/backup.sh
+C. 5 2 * * 1
+/scripts/backup.sh
+D. 1 * * 2 5
+/scripts/backup.sh
+E. 5 2 * * 0 /scripts/backup.sh

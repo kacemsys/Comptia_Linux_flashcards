@@ -1,0 +1,6 @@
+A systems administrator wants to verify the DNS information of a system that is in production.
+Which of the following will provide this information?
+A. nmap -R 10.10.20.21 10.10.1.10
+B. whois -r -h 10.10.1.10 10.10.20.21
+C. dig -x 10.10.20.21 @10.10.1.10
+D. route 10.10.20.21 gw 10.10.1.10

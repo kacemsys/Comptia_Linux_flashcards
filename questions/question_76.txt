@@ -1,0 +1,7 @@
+Using the provider's tools, the administrator wrote a JSON file to define how to deploy the
+servers.
+Which of the following techniques did the administrator use?
+A. Infrastructure as code
+B. Build automation
+C. Platform as a service
+D. Automated configuration

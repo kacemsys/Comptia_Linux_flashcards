@@ -1,0 +1,7 @@
+A Linux systems administrator installed a new web server, which failed while attempting to start.
+The administrator suspects that SELinux is causing an issue and wants to temporarily put the system into permissive mode. Which of the following would allow the administrator to accomplish
+this?
+A. echo SELINUX=PERMISSIVE >> /etc/sysconfig/selinux
+B. setenforce 0
+C. sestatus 0
+D. chcon httpd_sys_content_t /var/

@@ -1,0 +1,12 @@
+A junior systems is configuring localization option environment variables. The administrator is
+given a checklist of tasks with the following requirements:
+- View current settings of the LC_ALL environment variable only.
+- Modify the LANG environment variable to US English Unicode.
+Given this scenario, which of the following should be performed to meet these requirements?
+(Choose two.)
+A. echo $LC_ALL
+B. locale
+C. cat $LC_ALL
+D. export LANG = en_US.UTF-8
+E. export $LANG = en_US.UTF
+F. stty

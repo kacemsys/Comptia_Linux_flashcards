@@ -1,0 +1,10 @@
+A Linux administrator is adding a static IP address to a network interface on a Linux system. The
+administrator modifies the ifcfg- eth0 configuration file with the following settings:
+
+After the administrator restarts the Linux server, the system is not connected to the network.
+Which of the following configuration settings needs to be changed?
+
+A. Set BOOTPROTO to BOOTP and USERCTL to yes.
+B. Set BOOTPROTO to NONE and ONBOOT to yes.
+C. Set USERCTL to yes and ONBOOT to no.
+D. Set NETMASK to 255.255.0.0 and ONBOOT to yes.

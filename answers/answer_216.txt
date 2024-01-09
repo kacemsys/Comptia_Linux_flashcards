@@ -1,0 +1,1 @@
+Answer: C An organization wants to consolidate its entire user information in centralized storage using an X.500- based protocol. Which of the following protocols should be used for this implementation?

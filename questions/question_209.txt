@@ -1,0 +1,6 @@
+A Linux user wants to give read-only permissions to a directory and its contents.
+Which of the following commands will allow the user to accomplish this task?
+A. chmod -R 400 /new_directory/
+B. chmod -R 600 /new_directory/
+C. chmod 400 /new_directory/
+D. chmod 600 /new_directory/

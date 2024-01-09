@@ -1,0 +1,5 @@
+Which of the following would be the BEST solution for a systems administrator to access the graphical user environment of a Linux machine remotely?
+A. VNC
+B. KDE
+C. X11
+D. RPC

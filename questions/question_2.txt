@@ -1,0 +1,6 @@
+A systems administrator needs to append output of ls –lha /opt command to the contents of a test.txt file. 
+Which of the following commands will accomplish this?
+A. ls –lha /opt > test.txt
+B. ls –lha /opt < test.txt
+C. ls –lha /opt >> test.txt
+D. ls –lha /opt << test.txt

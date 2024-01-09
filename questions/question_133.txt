@@ -1,0 +1,7 @@
+A configuration management tool running every minute is enforcing the service HTTPd to be
+started. To perform maintenance, which of the following series of commands can be used to
+prevent the service from being started?
+A. systemctl stop httpd && systemctl mask httpd
+B. systemctl disable httpd && systemctl mask httpd
+C. systemctl stop httpd && systemctl hide httpd
+D. systemctl disable httpd && systemctl hide httpd

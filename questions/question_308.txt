@@ -1,0 +1,12 @@
+A systems administrator wants to increase the existing drive space on a Linux server with a
+software RAID. After physically adding the new drive to the system, and then adding the drive to
+the RAID array, the administrator notices the available drive space has not increased. A status of
+the array shows the new drive and the original storage space:
+md0 : active Raid sdd1[3]S sdc1[2] sdb1[1] sda1[0]
+954585654 blocks level5 64K chunk algorithm 2 [3/3] [UUU]
+Which of the following should the administrator do to make all storage space available on the
+RAID array?
+A. Run hdparm to alert the kernel to a new drive.
+B. Convert the new drive to a hot spare.
+C. Set the RAID type to a RAID 1.
+D. Grow the array size to four members.

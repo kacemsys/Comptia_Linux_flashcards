@@ -1,0 +1,6 @@
+An administrator has modified the configuration file for a service. The service is still running but is
+not using the new configured values. Which of the following will BEST remediate this issue?
+A. kill -HUP
+B. init 0
+C. service start
+D. renice -10

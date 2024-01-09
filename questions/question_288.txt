@@ -1,0 +1,5 @@
+Which of the following is used on the client to boot a Linux system from a TFTP server?
+A. HTTP
+B. GRUB
+C. EFI
+D. PXE

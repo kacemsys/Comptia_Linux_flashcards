@@ -1,0 +1,7 @@
+What information can the lspci command display about the system hardware? (Choose THREE
+correct answers.)
+A. Device IRQ settings
+B. PCI bus speed
+C. System battery type
+D. Device vendor identification
+E. Ethernet MAC address

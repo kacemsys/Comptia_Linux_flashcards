@@ -1,0 +1,6 @@
+An administrator is logged into a server remotely and wants to determine if the system is a VM.
+Which of the following commands would assist with this?
+A. dmesg
+B. ps
+C. top
+D. vmstat

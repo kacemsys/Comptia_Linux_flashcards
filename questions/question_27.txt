@@ -1,0 +1,7 @@
+A system administrator has deployed a Linux server based on an Anaconda process with all
+packages and custom configurations necessary to install a web server role.
+Which of the following could be used to install more Linux servers with the same characteristics?
+A. /etc/sysconfig/anaconda/cfg
+B. /root/anaconda.auto
+C. /root/anaconda-ks.cfg
+D. /etc/sysconfig/installation.cfg

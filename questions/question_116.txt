@@ -1,0 +1,10 @@
+An engineer is working on a production application deployment that requires changing a web
+application property file called server.property that is managed by the Git version control
+system. A cloned copy of the remote repository in which the server.property file exists is on
+the local desktop computer. The engineer makes appropriate changes to the files, saves it as
+server.property, and executes git commit –m “changed the property file”
+server.property. Which of the following commands did the engineer fail to perform?
+A. git init server.property
+B. git merge server.property
+C. git add server.property
+D. git push server.property

@@ -1,0 +1,11 @@
+A Linux administrator is updating iptables rules and is given the following tasks:
+- Output a list of iptables rules.
+- Remove all iptables rules.
+Which of the following actions should be performed from the terminal console to accomplish
+these tasks? (Choose two.)
+A. iptables -F
+B. iptables -L
+C. iptables -I
+D. iptables -C
+E. iptables -A
+F. iptables -N

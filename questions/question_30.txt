@@ -1,0 +1,7 @@
+A systems administrator wants to know the current status of a series of dd jobs that were started
+in the background three hours ago.
+Which of the following commands will achieve this task?
+A. sudo killall –HUP dd
+B. sudo killall dd
+C. sudo killall –TERM dd
+D. sudo killall -USR1 dd

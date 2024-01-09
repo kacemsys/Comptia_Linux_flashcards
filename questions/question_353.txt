@@ -1,0 +1,6 @@
+The next day, the junior administrator is unable to edit the file. Which of the following would
+resolve this issue?
+A. Chmod 666 /home/junior_admin/tasklist
+B. Chmod $+x /home/junior_admin/tasklist
+C. Chmod g+s /home/junior_admin/tasklist
+D. Chmod o+rwx /home/junior_admin/tasklist

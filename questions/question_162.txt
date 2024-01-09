@@ -1,0 +1,5 @@
+On a UEFI-based system, which of the following invokes GRUB2 from the EFI command prompt?
+A. boot//EFI/grub2.efi
+B. EFI/grub2.efi
+C. /boot/EFI/grub2.efi
+D. /grub2.efi

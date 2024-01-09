@@ -1,0 +1,6 @@
+Which of the following Linux server roles should be installed to monitor and log local web traffic?
+A. Proxy server
+B. AAA server
+C. SSH server
+D. HTTP server
+E. Name server

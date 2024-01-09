@@ -1,0 +1,7 @@
+A file server is sharing a directory called /share between team members inside a company. The
+fileshare needs to be moved from serverA to /newshare located on serverB with all permissions
+and attributes preserved. Which of the following commands would BEST achieve this task?
+A. rsync -aHAX /share/* serverB:/newshare
+B. dd if=/share/* of=serverB:/newshare
+C. tar -cvf /share/* serverB:/newshare
+D. mirrorlv /share/* serverB:/newshare

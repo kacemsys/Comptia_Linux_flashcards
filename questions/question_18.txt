@@ -1,0 +1,7 @@
+An administrator needs to create a shared directory in which all users are able to read, write, and execute
+its content but none of the regular users are able to delete any content.
+Which of the following permissions should be applied to this shared directory?
+A. rwxrwxrwt
+B. rwxrwxrws
+C. rwxrwxrwx
+D. rwxrwxrw*

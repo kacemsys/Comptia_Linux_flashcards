@@ -1,0 +1,7 @@
+An administrator needs to look at a log for an application on a systemd-based system. There is
+no log for this application in /var/log. Which of the following is another way to view the application
+log on this system?
+A. tail -f /var/log/secure
+B. journalctl –u application
+C. systemctl application.service
+D. watch /var/lib/application/

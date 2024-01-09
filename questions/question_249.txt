@@ -1,0 +1,10 @@
+A company requires all servers to be configured with the BIOS on Coordinated Universal Time
+and the OS on Central Standard Time.
+Which of the following can be used to change the time according to these requirements? (Choose
+two.)
+A. localectl
+B. LC_ALL
+C. date
+D. time
+E. hwclock
+F. crontab

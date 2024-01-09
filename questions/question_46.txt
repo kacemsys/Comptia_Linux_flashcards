@@ -1,0 +1,6 @@
+A technical support engineer receives a ticket from a user who is trying to create a 1KB file in the /tmp directory and is getting the following error No space left on device. The support engineer checks the /tmp directory, and it has 20GB of free space.
+Which of the following BEST describes a possible cause for this error?
+A. The /tmp directory is not mounted.
+B. The filesystem is formatted with a 4MB block size.
+C. the filesystem ran out of inodes.
+D. The /tmp directory has been set with an immutable attribute.

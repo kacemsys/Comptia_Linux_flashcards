@@ -1,0 +1,7 @@
+A Linux administrator retrieved a repository of files from a Git server using git clone. The
+administrator wants to see if a configuration file was added to the repository. Which of the
+following Git arguments should be used to see the recent modifications?
+A. fetch
+B. log
+C. init
+D. pull

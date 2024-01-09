@@ -1,0 +1,7 @@
+A server administrator is given the hash of an account password that needs to be synchronized
+across all servers.
+Which of the following will allow the server administrator to configure the account password?
+A. Edit the password file.
+B. Use the usermod command.
+C. Edit the shadow file.
+D. Use the passwd command.

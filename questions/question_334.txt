@@ -1,0 +1,6 @@
+Which of the following directories contains information related to various runtime processes, such
+as hardware and system memory?
+A. /Usr/bin
+B. /Opt
+C. /Proc
+D. /etc/local/

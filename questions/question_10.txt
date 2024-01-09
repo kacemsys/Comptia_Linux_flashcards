@@ -1,0 +1,8 @@
+A systems administration team has decided to their systems as immutable instances. They keep
+the desired state of each of their systems in version control and apply automation whenever they
+provision a new instance. If there is an issue with one of their servers, instead of troubleshooting the issue they terminate the instance and rebuild it using automation.
+Which of the following is this an example of?
+A. Inventory
+B. Orchestration
+C. Infrastructure as code
+D. Agentless deployment

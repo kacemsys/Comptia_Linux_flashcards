@@ -1,0 +1,5 @@
+Which of the following will boot from a network-hosted ISO image at power on?
+A. PXE
+B. FTP
+C. iSCSI
+D. NFS

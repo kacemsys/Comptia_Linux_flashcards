@@ -1,0 +1,7 @@
+A junior systems administrator has generated a PKI certificate for SSH sessions. The
+administrator would like to configure authentication without passwords to remote systems. Which
+of the following should the administrator perform?
+A. Add the content of id_rsa.pub file to the remote system ~/.ssh/authorized_keys location.
+B. Add the content of id_rsa file to the remote system ~/.ssh/authorized_keys location.
+C. Add the content of id_rsa file to the remote system ~/.ssh/known_hosts location.
+D. Add the content of id_rsa.pub file to the remote system ~/.ssh/known_hosts location.

@@ -1,0 +1,6 @@
+A systems administrator received a request to change the hostname to a new name. Which of the
+following file configurations should be changed to fix the hostname in the server?
+A. /etc/sysconfig/network
+B. /etc/hosts
+C. /etc/resolv.conf
+D. /etc/sysconfig/nsswitch.conf

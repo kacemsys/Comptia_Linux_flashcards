@@ -1,0 +1,9 @@
+A system administrator is setting up a cron job that will copy thousands files from a remote
+directory on a scheduled basic. The file contents should retain their original permissions,
+including and group ownership, and the cron job should run for the least amount of the possible.
+Which of the following is the BEST program to use in this situation?
+A. Rsync
+B. Curl
+C. Scp
+D. Wget
+E. sftp

@@ -1,0 +1,7 @@
+A user tries to log in to the Linux console and receives the following message:
+Your account has expired; Please contact your system administrator.
+Which of the following commands was MOST likely run to create this behavior?
+A. passwd
+B. usermod
+C. userdel
+D. chage

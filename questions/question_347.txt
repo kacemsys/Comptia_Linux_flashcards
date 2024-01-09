@@ -1,0 +1,8 @@
+A Linux administrator needs to run a few virtual machines and containers on the physical
+machines with a single network interface.
+Which of the following networking would allow the administrator to connect with the outside
+world?
+A. Bridging
+B. VLAN
+C. Bonding/teaming
+D. VPN

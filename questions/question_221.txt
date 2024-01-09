@@ -1,0 +1,9 @@
+A user requested a USB serial device to be added to a desktop computer. The device has built-in
+kernel driver support. The administrator tested the device installation and access, but the user
+cannot access the serial port. Each time the user attempts to access the device, an error log is
+created that shows the user does not have permission to use the serial port. Which of the
+following will add a user to the group that has serial port capabilities?
+A. usermod –a –G serialport $USER
+B. usermod –a –G modem $USER
+C. usermod –a –G dialout $USER
+D. usermod –a –G root $USER

@@ -1,0 +1,9 @@
+A junior systems administrator is creating a cron job. The cron job requirements are as follows:
+- Run the hello.sh script every hour (24 times in one day).
+- Run it on Monday only.
+Given this scenario, which of the following crontab options should be configured to meet these
+requirements?
+A. 0 *** 1 hello.sh
+B. 0 24 ** Monday hello.sh
+C. 24 *** Monday hello.sh
+D. 1 *** 0 hello.sh

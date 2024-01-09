@@ -1,0 +1,7 @@
+An administrator wants to be able to access a remote server. After creating an SSH key pair,
+which of the following describes where the public key should be placed to allow for key-based
+authentication?
+A. -/, ssh/authorized_keys
+B. -/ssh/id_ras.pub
+C. -/.ssh/known_hosts
+D. -/.ssh/config

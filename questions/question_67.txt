@@ -1,0 +1,7 @@
+A Linux administrator needs to remotely update the contents of the www.comptia.org/contacts URL.
+Which of the following commands would allow the administrator to download the current contents
+of the URL before updating?
+A. curl www.comptia.org/contacts
+B. dig www.comptia.org/contacts
+C. apt-get www.comptia.org/contacts
+D. yum list www.comptia.org/contacts

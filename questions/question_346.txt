@@ -1,0 +1,6 @@
+A Linux server hosts Kerberos and LDAP, which of the following is the MOST likely role of this
+server?
+A. Certificate authority
+B. Clustering
+C. Database
+D. Authentication

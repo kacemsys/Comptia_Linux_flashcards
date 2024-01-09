@@ -1,0 +1,10 @@
+A security team informs the Linux administrator that a specific server is acting as an open relay.
+To which of the following is the security team referring?
+A. The server is running the SSH service and is open to the Internet, allowing outside sources to log
+into the server without source IP address filtering.
+B. The server is acting as an unmanaged router, open to the Internet, and is allowing outside
+Internet traffic into the network with no filtering.
+C. The server is acting as a web proxy and allowing outside unauthenticated sources to connect to
+the server, effectively hiding the source’s IP address for malicious activities.
+D. The server has an email service configured to allow outside sources to send email to other
+external parties on the Internet without validation.

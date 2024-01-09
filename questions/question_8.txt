@@ -1,0 +1,5 @@
+A systems administrator has received reports of intermittent network connectivity to a particular website. Which of the following is the BEST command to use to characterize the location and type of failure over the course of several minutes?
+A. mtr www.comptia.org
+B. tracert www.comptia.org
+C. ping www.comptia.org
+D. netstat www.comptia.org

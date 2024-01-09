@@ -1,0 +1,10 @@
+A user wants to list the lines of a log, adding a correlative number at the beginning of each line
+separated by a set of dashes from the actual message.
+Which of the following scripts will complete this task?
+A.
+
+B.
+
+C.
+
+D.

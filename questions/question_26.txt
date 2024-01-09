@@ -1,0 +1,8 @@
+An administrator needs to mount the shared NFS file system testhost:/testvolume to mount
+point /mnt/testvol and make the mount persistent after reboot.
+Which of the following BEST demonstrates the commands necessary to accomplish this task?
+A.
+B.
+C.
+D.
+"

@@ -1,0 +1,7 @@
+A systems administrator receives a report that the web server is not running after a planned
+system reboot. After starting the web server manually, which of the following commands should
+the administrator issue to ensure the web server starts at boot time?
+A. systemctl service on
+B. systemctl enable <name>.service
+C. systemctl service enable
+D. systemctl on <name>.service

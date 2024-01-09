@@ -1,0 +1,4 @@
+A. Build automation
+B. Deployment automation
+C. Test automation
+D. Infrastructure automation

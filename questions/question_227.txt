@@ -1,0 +1,6 @@
+A systems administrator needs to connect to a remote Linux machine to run system updates from
+within a graphical interface. Which of the following should the administrator use?
+A. MATE
+B. Wayland
+C. VNC
+D. Unity

@@ -1,0 +1,9 @@
+A Linux administrator has configured a Linux system to be used as a router. The administrator
+confirms that two network adapters are properly installed and functioning correctly. In addition,
+the output of the iptables –L command appears to contain a complete firewall configuration.
+Which of the following commands does the administrator need to issue for the router to be fully
+functional?
+A. echo ""1"" > /proc/sys/net/ipv4/ip_forward
+B. echo ""0"" > /proc/sys/net/ipv4/tcp_abort_on_overflow
+C. echo ""0"" > /proc/sys/net/ipv4/max_connections
+D. echo ""1"" > /proc/sys/net/ipv4/ip_default_ttl

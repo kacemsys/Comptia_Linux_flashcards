@@ -1,0 +1,7 @@
+A Linux systems administrator is troubleshooting an issue with the /home directory running out of
+space. The administrator needs to determine which /home directories are using the most space.
+Which of the following commands should be used?
+A. du
+B. lvs
+C. df
+D. fsck

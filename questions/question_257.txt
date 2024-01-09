@@ -1,0 +1,7 @@
+An administrator is installing a new kernel but is getting an error indicating the filesystem is out of
+space. A disk usage check shows / has plenty of space.
+Which of the following BEST represents where the administrator should check next?
+A. /var
+B. /proc
+C. /boot
+D. /etc

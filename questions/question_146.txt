@@ -1,0 +1,7 @@
+A systems administrator is troubleshooting an intermittent network connection at the IP address
+192.168.1.23. The administrator wishes to monitor the connection at five-minute intervals for one
+hour. Which of the following commands will accomplish this task?
+A. ping -i 5 192.168.1.23
+B. ping -c 12 192.168.1.23
+C. ping -c 12 -i 300 192.168.1.23
+D. ping -c 60 -i 100 192.168.1.23

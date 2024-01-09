@@ -1,0 +1,1 @@
+" Answer: D An administrator is analyzing a Linux server which was recently hacked.

@@ -1,0 +1,6 @@
+Joe, a user, asks a systems administrator to schedule the daily execution of a custom script.
+Which of the following commands will allow the systems administrator to set up Joe’s cron job?
+A. crontab -r -u joe
+B. crontab -e -u joe
+C. crontab -n -u joe
+D. crontab -l -u joe

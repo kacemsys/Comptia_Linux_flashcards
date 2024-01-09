@@ -1,0 +1,7 @@
+A Linux administrator needs to disable the Sendmail service on a Linux server and prevent it from
+being started manually and during boot.
+Which of the following is the BEST command to do this?
+A. systemctl reset-failed sendmail
+B. systemctl mask sendmail
+C. systemctl stop sendmail
+D. systemctl disable sendmail

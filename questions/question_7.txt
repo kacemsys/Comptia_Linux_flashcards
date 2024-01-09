@@ -1,0 +1,6 @@
+local working system to a folder /var/www/html on a server named ""corporate-web"". 
+Which of the following commands will allow the administrator to copy all the contents to the web server?
+A. scp –r working/* webuser@corporate-web:/var/www/html
+B. tar working/* webuser@corporate-web:/var/www/html
+C. cp –r working/* webuser@corporate-web:/var/www/html
+D. mv working webuser@corporate-web:/var/www/html

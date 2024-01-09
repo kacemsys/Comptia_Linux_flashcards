@@ -1,0 +1,7 @@
+A systems administrator suspects a process with a PID of 2864 is consuming resources at an
+alarming rate. The administrator uses the command renice -n -5 -p2864, but it does not solve the
+issue. Which of the following commands should the administrator execute to correct the issue?
+A. nice -n 5 -p 2864
+B. nice -n -5 -p 2864
+C. renice -n 10 -p 2864
+D. renice -n -10 -p 2864

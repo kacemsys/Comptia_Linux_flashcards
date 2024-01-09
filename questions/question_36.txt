@@ -1,0 +1,5 @@
+Which of the following server roles would assign a host IP address?
+A. DHCP
+B. NTP
+C. DNS
+D. SSH

@@ -1,0 +1,8 @@
+A systems administrator needs to install software packages on a server from an Internet-based
+repository. The server does not have Internet connectivity.
+Which of the following can be used to allow the server to connect to the Internet through the
+systems administrator’s desktop?
+A. Local package repository
+B. UUCP
+C. Remote SSH port forwarding
+D. X11 forwarding

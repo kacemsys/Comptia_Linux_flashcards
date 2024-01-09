@@ -1,0 +1,6 @@
+A Linux administrator needs to prevent the Postfix mail transfer agent from starting on boot.
+Which of the following commands will accomplish this task?
+A. systemctl stop postfix.service
+B. /etc/init.d/postfix stop
+C. systemctl disable postfix.service
+D. /etc/init.d/postfix disable

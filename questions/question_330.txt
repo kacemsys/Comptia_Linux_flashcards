@@ -1,0 +1,6 @@
+Which of the following files would a junior systems administrator check to verify DNS server
+settings?
+A. /etc/network
+B. /etc/rsolveconf
+C. /etc/nsswitch,conf
+D. /etc/hosts

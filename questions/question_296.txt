@@ -1,0 +1,8 @@
+Which of the following default files are typically used to contain a list of public keys from other
+computers? (Choose two.)
+A. ~/.ssh/authorized_keys
+B. ~/.ssh/config
+C. ~/.ssh/id_dsa.pub
+D. ~/.ssh/known_hosts
+E. ~/.ssh/id_rsa
+F. ~/.ssh/id_rsa.pub

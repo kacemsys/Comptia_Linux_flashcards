@@ -1,0 +1,7 @@
+An administrator needs to set the time of a VM that has no network connectivity to an NTP server.
+The VM’s host, however, is synchronized with NTP.
+Which of the following allows the administrator to synchronize the time of the VM with the host?
+A. time
+B. date
+C. hwclock
+D. ntpdate

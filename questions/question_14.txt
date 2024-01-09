@@ -1,0 +1,14 @@
+A junior Linux administrator is installing a new application with CPU architecture requirements
+that have the following specifications:
+- x64 bit
+- 3.0GHz speed
+- Minimum quad core
+The administrator wants to leverage existing equipment but is unsure whether the requirements
+of these systems are adequate. The administrator issues the following command cat/proc/cpuinfo. The output of the command is as follows:
+
+Which of the following is the recommended course of action the administrator should take based
+on this output?
+A. Install the application, as the system meets the application requirements
+B. Procure new equipment that matches the recommended specifications
+C. Recompile the Linux kernel to support the installation.
+D. Reconfigure lib modules to support the new application.

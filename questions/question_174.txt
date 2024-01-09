@@ -1,0 +1,8 @@
+A Linux administrator attempts to install the package newprogram.x86_64.rpm using a package
+manager. The administrator receives a warning indicating the command that was run was using a
+deprecated package manager. Which of the following commands should the administrator use to
+avoid the warning and install the newprogram.x86_64.rpm program?
+A. # dnf install newprogram.x86_64.rpm
+B. # rpm -e newprogram.x86_64.rpm
+C. # dpkg -i newprogram.x86_64.rpm
+D. # apt-get install newprogram.x86_64.rpm

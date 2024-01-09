@@ -1,0 +1,8 @@
+A system administrator is troubleshooting a web server that runs in a container. After the log is
+retained, the container occasionally stops logging to a log file. Fortunately, the vendor provides a
+custom signal that allows the application to reconnect to the log file.
+Which of the following would be BEST for the administrator to run the containers?
+A. Kill -HUP 1
+B. Kill -USR 1
+C. Kill -TEAM 1
+D. Kill -Kill 1

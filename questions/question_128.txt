@@ -1,0 +1,20 @@
+echo ""Monday through Friday"" > /production_docs/days
+The command fails to execute, so the user obtains the following output:
+drwxr--r-- root production 0 Jun 16 2018 production
+-rw-r--r-- production production 4096 Jun 14 2018 days
+Which of the following commands should the user execute to BEST fix the issue?
+A. chmod g+w production to change the permissions of the days file
+B. chgrp root production_docs/days to change the group ownership of the production_docs/ file days
+C. chmod g+S production to set the GUID on the production_docs directory
+D. chown production to change the ownership of the production_docs directory
+" answer D/a "
+A junior systems administrator created a new filesystem /dev/sda1 with mountpoint /data and
+added it to the /etc/fstab for auto-mounting.
+When the systems administrator tries to mount the file system, the system refuses. Given the
+output below:
+
+Which of the following steps is necessary?
+A. Change the filesystem from /dev/sda1 to /dev/sda2 and reboot.
+B. Change the options to auto, dev, sync, rw, nosuid and run the mount -a command.
+C. Change the mount point to data and reboot.
+D. Change the dump column to 1 and run the mount -a command.

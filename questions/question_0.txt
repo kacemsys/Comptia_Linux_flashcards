@@ -1,0 +1,9 @@
+A Linux administrator must identify a user with high disk usage. The administrator runs the # du –s/home/* command and gets the following output:
+
+Based on the output, User3 has the largest amount of disk space used. To clean up the file space, the administrator needs to find out more information about the specific files that are using the most disk space.
+Which of the following commands will accomplish this task?
+A. df –k /home/User/files.txt
+B. du –a /home/User3/*
+C. du –sh /home/User/
+D. find . –name /home/User3 -print
+

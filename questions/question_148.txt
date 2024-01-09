@@ -1,0 +1,6 @@
+An administrator is uncomfortable allowing users to log in as root. Which of the following ensures
+that root logins are disallowed?
+A. usermod -L root
+B. usermod -G root
+C. usermod -B root
+D. usermod -U root

@@ -1,0 +1,7 @@
+A systems administrator has scheduled a system update for a server. The update includes a
+resynchronization of the package database and updates to the current packages and the system
+distribution packages. Which of the following commands contains the proper order of this update?
+A. apt-get upgrade, apt-get dist-upgrade, apt-get update
+B. apt-get update, apt-get upgrade, apt-get dist-upgrade
+C. apt-get dist-upgrade, apt-get upgrade, apt-get update
+D. apt-get update, apt-get dist-upgrade, apt-get upgrade

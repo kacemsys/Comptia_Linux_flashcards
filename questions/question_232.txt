@@ -1,0 +1,7 @@
+A Linux administrator needs to add some files in a directory to the Git repository but must exclude
+some local .tmp files that are occasionally created by the scripts.
+Which of the following is the BEST way to accomplish this task?
+A. git rm .tmp
+B. git add -x .tmp *
+C. echo .tmp >> .gitignore
+D. rm -rf .tmp

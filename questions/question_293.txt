@@ -1,0 +1,8 @@
+An administrator is using a configuration management tool to define a system’s configuration. The
+defined configuration can be used to provision new systems, rebuild existing systems, or roll back
+systems to their original baseline configurations.
+Which of the following BEST describes what the administrator is doing?
+A. Build automation
+B. Containerization
+C. Infrastructure as code
+D. Test automation

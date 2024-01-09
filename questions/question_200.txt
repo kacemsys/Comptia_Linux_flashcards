@@ -1,0 +1,10 @@
+Users are unable to connect to a server using HTTPS. The administrator runs the following
+command on the remote system:
+
+Then, the administrator runs the following command from a local workstation:
+
+Which of the following steps should the administrator take to address the issue?
+A. Start the application to run on port 443
+B. Configure the application to run on an active port
+C. Allow port 443 through the firewall
+D. Update the self-signed certificate

@@ -1,0 +1,7 @@
+A user wants to configure the application “myapp” to start on runlevels 2, 3, 4, and 5 every time
+the system starts.
+Which of the following commands will accomplish this task?
+A. chkconfig --level 2345 myapp on
+B. systemctl myapp on 2345
+C. chkcinfig myapp --levels 2-5
+D. systemctl --levels 2345 on

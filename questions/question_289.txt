@@ -1,0 +1,7 @@
+A Linux administrator has downloaded and installed the httpd package.
+Which of the following commands will start the service immediately and allow the service to start
+on system boot?
+A. systemctl start httpd;chkconfig httpd on
+B. systemctl status httpd;chkconfig httpd on
+C. systemctl.start httpd;chkconfig httpd on
+D. systemctl start httpd;chkconfig httpd on 6

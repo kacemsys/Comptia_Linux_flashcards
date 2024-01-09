@@ -1,0 +1,7 @@
+A Linux administration is using a Linux system as a router. During the tests, the administrator
+discovers that IP packets are not being sent between the configured interfaces.
+Which of the following commands enables this feature for IPv4 networks?
+A. cat /proc/sys/net/ipv4/ip_route > 1
+B. echo ""1"" > /proc/sys/net/ipv4/ip_forward
+C. echo ""1"" > /proc/sys/net/ipv4/ip_route
+D. echo ""1"" > /proc/sys/net/ipv4/ip_net

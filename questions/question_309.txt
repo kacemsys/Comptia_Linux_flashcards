@@ -1,0 +1,8 @@
+A Linux systems administrator needs to copy files and directories from Server A to Server B.
+Which of the following commands can be used for this purpose? (Select TWO)
+A. rsyslog
+B. cp
+C. rsync
+D. reposync
+E. scp
+F. ssh

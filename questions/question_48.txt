@@ -1,0 +1,9 @@
+An administrator receives a warning about a file system filling up, and then identifies a large file
+located at /tmp/largelogfile. The administrator deletes the file, but no space is recovered on the
+file system.
+Which of the following commands would BEST assists the administrator in identifying the
+problem?
+A. lsof | grep largelogfile
+B. pkill /tmp/largelogfile
+C. pgrep largelogfile
+D. ps –ef | grep largelogfile

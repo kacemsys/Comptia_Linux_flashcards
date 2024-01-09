@@ -1,0 +1,9 @@
+Joe, a user, reports that he is no longer able to write files to his home directory. Upon inspection,
+the Linux administrator discovers that attempting to create a new file gives the following error: No
+space left on . However, the disk and partition are not full.
+Which of the following commands would be BEST for device the administrator to use to continue
+troubleshooting this problem?
+A. rm -Rf ~/.*
+B. fsck -y /dev/sda1
+C. df -i
+D. fdisk /dev/sda

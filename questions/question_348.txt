@@ -1,0 +1,7 @@
+An administrator is logged on as an unprivileged user and needs to compile and installed an
+application from source.
+Which of the following BEST represents how to complete this task?
+A. cd <source>; sudo ./configure $$ make $$ make install
+B. cd <source>; ./configure $$ sudo make $$ make install
+C. cd <source>; ./configure $$ make $$ make install
+D. cd <source>; ./configure $$ make $$ make install

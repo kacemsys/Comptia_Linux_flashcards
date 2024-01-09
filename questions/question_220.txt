@@ -1,0 +1,6 @@
+Which of the following boot methods can a Linux administrator use to boot a Linux server
+remotely via a network interface card instead of a local disk?
+A. NTP
+B. PXE
+C. NFS
+D. Kickstart

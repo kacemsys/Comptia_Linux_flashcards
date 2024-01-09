@@ -1,0 +1,8 @@
+Users in the payroll department are not configured to use DNS due to security concerns. The
+users ask the junior Linux administrator to configure their workstations to access the payroll
+server at 192.168.204.11 by the name ""Payroll"". Which of the following commands should the
+administrator issue to meet this request?
+A. echo ""nameserver 192.168.204.11 #Payroll"" >> /etc/resolv.conf
+B. echo ""net.ipv4.ip_dynaddr=192.168.204.11 Payroll"" >> /etc/sysctl.conf
+C. echo ""192.168.204.11 Payroll"" >> /etc/hosts
+D. echo `IPADDR=""192.168.204.11"" #Payroll' >> /etc/network/interface

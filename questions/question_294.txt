@@ -1,0 +1,7 @@
+When a technician plugs a USB flash drive into a server, the drive does not mount automatically.
+Which of the following commands will provide the information needed to mount the drive
+manually?
+A. modinfo
+B. lshw
+C. lspci
+D. mount

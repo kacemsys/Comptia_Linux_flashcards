@@ -1,0 +1,6 @@
+A Linux administrator needs to switch from text mode to GUI. Which of the following runlevels will
+start the GUI by default?
+A. Runlevel 3
+B. Runlevel 4
+C. Runlevel 5
+D. Runlevel 6

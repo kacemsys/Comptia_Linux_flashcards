@@ -1,0 +1,6 @@
+When requesting SSH access to a remote system, a user accidentally emailed the id_rsa key to
+the administrator. Which of the following should the user do NEXT?
+A. Run the ssh-add command to add the remote system to known_hosts.
+B. Ask the administrator to run chmod 600 id_rsa on the remote system.
+C. Delete id_rsa key file and send the id_rsa.pub key file instead.
+D. Stop using that key and run ssh-keygen to generate a new key pair.

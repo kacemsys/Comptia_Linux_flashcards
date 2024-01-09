@@ -1,0 +1,6 @@
+Which of the following commands will let a Linux user know the PCI devices that are installed in
+the system?
+A. cat /proc/devices/pci
+B. lspci
+C. lsdev
+D. cat /proc/sys/dev

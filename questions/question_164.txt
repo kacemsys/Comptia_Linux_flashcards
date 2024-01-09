@@ -1,0 +1,7 @@
+A Linux administrator looks at the /etc/timezone file and determines the need to change the time
+zone from California to New York temporarily.
+Which of the following commands will accomplish this?
+A. sed -f TZ=America/New_York
+B. cat TZ=America/New_York
+C. export TZ=America/New_York
+D. printf TZ=America/New_York

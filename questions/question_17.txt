@@ -1,0 +1,6 @@
+A Linux administrator wants to fetch a Git repository from a remote Git server.
+Which of the following is the BEST command to perform this task?
+A. git checkout
+B. git clone
+C. git merge
+D. git config

@@ -1,0 +1,9 @@
+A systems administrator installed Git on a new workstation and wants to ensure all Git projects on
+this machine are initialized with the same username and email address.
+Which of the following should the administrator use to meet this goal? (Choose two.)
+A. git config --global user.name = “James Doe”
+B. echo ‘email.addr = “jdoe@comptia.org”’ >> .git/.gitconfig
+C. echo ‘username’ = “James Doe”’ >> .git/.gitconfig
+D. git config username = “James Doe”
+E. git config --global user.email = “jdoe@comptia.org”
+F. git config email.addr = jdoe@comptia.org”

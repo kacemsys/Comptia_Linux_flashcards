@@ -1,0 +1,5 @@
+Which of the following settings for umask ensures that new files have the default permissions -rwr-----?
+A. 0017
+B. 0640
+C. 0038
+D. 0027

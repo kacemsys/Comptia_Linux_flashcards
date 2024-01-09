@@ -1,0 +1,7 @@
+An administrator is configuring a new Linux server and wants to boot the system to a file that was
+previously downloaded to locally install removable media. Which of the following boot options
+should the administrator choose?
+A. PXE
+B. ISO
+C. NFS
+D. HTTP

@@ -1,0 +1,7 @@
+A user, jsmith, needs access to database files located on a server.
+Which of the following will add jsmith to the ""dba"" group and preserve existing group
+memberships?
+A. usermod –a –G dba jsmith
+B. usermod –g dba jsmith
+C. useradd –g dba jsmith
+D. groupmod dba –u jsmith

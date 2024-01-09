@@ -1,0 +1,9 @@
+
+A Linux server has multiple IPs. A Linux administrator needs to verify if the HTTP server port is bound to the correct IP.
+Which of the following commands would BEST accomplish this task?
+
+A. route
+B. host
+C. nslookup
+D. netstat
+E. ip

@@ -1,0 +1,8 @@
+An administrator notices that a long-running script, /home/user/script.sh, is taking up a large
+number of system resources. The administrator does not know the script's function. Which of the
+following commands should the administrator use to minimize the script's impact on system
+resources?
+A. renice
+B. kill
+C. bg
+D. nohup

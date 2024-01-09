@@ -1,0 +1,7 @@
+In order to comply with new security policies, an administrator needs to prevent the SSH server
+from using insecure algorithms.
+Which of the following files should be edited to accomplish this?
+A. /etc/ssh/sshd_config
+B. /etc/ssh/ssh_config
+C. ~/.ssh/ssh_config
+D. /etc/ssh/known_hosts

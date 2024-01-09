@@ -1,0 +1,6 @@
+A Linux systems administrator wants the ability to access systems remotely over SSH using RSA
+authentication. To which of the following files should the RSA token be added to allow this access?
+A. authorized_keys
+B. ~/.ssh/ssh_config
+C. id_rsa.pub
+D. known_hosts

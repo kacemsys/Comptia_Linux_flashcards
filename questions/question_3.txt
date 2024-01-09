@@ -1,0 +1,7 @@
+A Linux systems administrator needs to provision multiple web servers into separate regional
+datacenters. The systems architect has instructed the administrator to define the server infrastructure using a specific tool that consumes a text-based file.
+Which of the following is the BEST reason to do this?
+A. To document the infrastructure so it can be included in the system security plan
+B. To ensure the administrator follows the planning phase of the system development life cycle
+C. To define the infrastructure so it can be provisioned consistently with minimal manual tasks
+D. To validate user requirements have been met within each regional datacenter for compliance

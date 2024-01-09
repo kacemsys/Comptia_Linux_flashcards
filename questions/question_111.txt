@@ -1,0 +1,6 @@
+A user has connected a Bluetooth mouse to a computer, but it is not working properly. Which of
+the following commands should the systems administrator use to fix the issue?
+A. lsmod –i bluetooth
+B. insmod bluetooth
+C. modprobe –r bluetooth
+D. depmod –i bluetooth

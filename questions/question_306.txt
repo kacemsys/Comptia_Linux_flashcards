@@ -1,0 +1,8 @@
+An administrator receives a USB drive and wants to make an exact copy of the disk before
+starting to work on it. One of the partitions on the USB drive was mounted as /dev/sdc1.
+Which of the following commands should the administrator use?
+A. dd if=/dev/sdc of=~/usb_copy.img bs=512
+B. dd if=/dev/sdc1 of=~/usb_copy.img count=1024
+C. dd if=/dev/sdc1 of=~/usb_copy.img bs=1024
+D. dd of=/dev/sdc if=~/usb_copy.img bs=1M
+

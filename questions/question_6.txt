@@ -1,0 +1,6 @@
+A junior Linux administrator is updating local name resolution to support IPv6. The administrator issues the command cat /etc/hosts and receives the following output: 127.0.0.1 localhost
+Which of the following actions should the administrator perform to accomplish this task?
+A. Modify the /etc/hosts file, and add the ipv6 localhost entry to the file.
+B. Modify the /etc/hosts file, and add the ::1 localhost entry to the file.
+C. Modify the /etc/hosts file, and add the ipv4 localhost entry to the file.
+D. Modify the /etc/hosts file, and add the 0.0.0.0 localhost entry to the file.

@@ -1,0 +1,8 @@
+Which of the following BEST describes running on a Linux system?
+A. Containers only need the namespaces functionally to run on a Linux system available since kernel 2.6.
+B. Containers need a hypervisor to run a Linux system. Cgroups namespaces are functionalities used for
+the kernel but not for running containers.
+C. Containers only need the cgroups functionality for running on a Linux system. Namespaces is not a
+Linux kernel functionality needed for creating and managing containers.
+D. Containers use the cgroups and namespaces functionalities to isolate processes and assign hardware
+resources to each of those isolated processes.

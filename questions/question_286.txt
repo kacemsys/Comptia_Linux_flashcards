@@ -1,0 +1,8 @@
+A customer reports a Linux production server is randomly suffering degraded performance. The
+administrator verifies that the sysstat package is installed and enabled on the server.
+Which of the following would BEST determine what is causing the impact on performance?
+A. Create a cron job that runs uptime every 15 minutes to collect historical data of the load
+average of the system.
+B. Leave a ping running overnight from a laptop to the server to catch any latency encountered.
+C. Analyze the data in /var/log/sa using the sar command.
+D. Open a screen session and run top inside of it. Let it run over night and collect the data.

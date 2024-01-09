@@ -1,0 +1,8 @@
+A Linux administrator opens a ticket to have an external hard drive mounted. As a security policy,
+external storage kernel modules are disabled.
+Which of the following is the BEST command for adding the proper kernel module to enable
+external storage modules?
+A. rmmod /lib/modules/3.6.12-100-generic/kernel/drivers/usb/storage/usb- storage.ko
+B. modinfo /lib/modules/3.6.12-100-generic/kernel/drivers/usb/storage/usb- storage.ko
+C. depmod /lib/modules/3.6.12-100-generic/kernel/drivers/usb/storage/usb- storage.ko
+D. insmod /lib/modules/3.6.12-100-generic/kernel/drivers/usb/storage/usb- storage.ko

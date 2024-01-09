@@ -1,0 +1,6 @@
+Which of the following can be used to boot a DVD from a remote device to initialize a Linux
+system setup on bare metal hardware as if it is a local DVD?
+A. UEFI
+B. PXE
+C. NFS
+D. GRUB

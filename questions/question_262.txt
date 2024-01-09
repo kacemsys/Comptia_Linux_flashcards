@@ -1,0 +1,10 @@
+To minimize the impact on the company's users, the administrator modified the network and DNS
+settings of the new server to be the same as the legacy server.
+When attempting to log in to the new server remotely over SSH, the following error message is
+displayed:
+WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
+Which of the following should the administrator do to resolve the issue?
+A. Restart the network services on both the remote server and the local machine.
+B. Remove the entry for the web server from the known_hosts file on the local machine.
+C. Update the /etc/hosts file on the remote server and local machine.
+D. Add the administrator's public key to the authorized_keys on the remote server.

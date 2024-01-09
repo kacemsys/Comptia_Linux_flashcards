@@ -1,0 +1,8 @@
+An administrator is attempting to block SSH connections to 192.168.10.24 using the Linux
+firewall. After implementing a rule, a connection refused error is displayed when attempting to
+SSH to 192.168.10.24.
+Which of the following rules was MOST likely implemented?
+A. iptables –A –p tcp –d 192.168.10.24 –dropt 22 –j REJECT
+B. iptables –A –p tcp –d 192.168.10.24 –dropt 22 –j DROP
+C. iptables –A –p tcp –d 192.168.10.24 –dropt 22 –j FORWARD
+D. iptables –A –p tcp –d 192.168.10.24 –dropt 22 –j REFUSE

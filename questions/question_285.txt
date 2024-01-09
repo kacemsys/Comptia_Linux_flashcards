@@ -1,0 +1,5 @@
+Which of the following has been implemented?
+A. Biometrics
+B. HOTP
+C. PKI
+D. Software token

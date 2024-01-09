@@ -1,0 +1,11 @@
+A junior systems administrator is upgrading a package that was installed on a Red Hat-based
+system. The administrator is tasked with the following:
+- Update and install the new package.
+- Verify the new package version is installed.
+Which of the following should be done to BEST accomplish these task? (Choose two.)
+A. yum install <package name>
+B. yum upgrade
+C. rpm –e <package name>
+D. rpm –qa
+E. apt-get <package name>
+F. apt-get upgrade

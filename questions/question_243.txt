@@ -1,0 +1,7 @@
+A Linux administrator needs to back up files from a user's home directory to a remote server. The
+administrator copied the files last week but must ensure any files created or modified since then are added.
+Which of the following is the BEST command for the administrator to use?
+A. scp -r /home/user99/* admin@backup.myip.xio:/backups/user99/
+B. rsync -r /home/user99 admin@backup.myip.xio:/backups
+C. cp -rf /home/user99/* /mnt/backups/user99/
+D. sftp -b /home/user99/* admin@backup.myip.xio:/backups

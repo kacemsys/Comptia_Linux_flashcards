@@ -1,0 +1,8 @@
+All users are reporting that they cannot connect to the SFTP server. The administrator runs a
+scan:
+
+Which of the following would allow the administrator to fix the problem?
+A. Allow SFTP connections on port 22 using /etc/sysconfig/iptables.
+B. Allow SFTP connections on port 20 and 21 using /etc/sysconfig/iptables.
+C. Allow SFTP connections on port 25 using /etc/sysconfig/iptables.
+D. Allow SFTP connections on port 1456 using /etc/sysconfig/iptables.

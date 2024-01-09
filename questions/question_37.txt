@@ -1,0 +1,5 @@
+Which of the following commands would show the default printer on a Linux system?
+A. lpr
+B. lpq
+C. lpstat
+D. lspci

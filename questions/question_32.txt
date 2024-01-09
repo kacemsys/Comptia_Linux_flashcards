@@ -1,0 +1,5 @@
+Which of the following is the purpose of the vmlinux file on a Linux system?
+A. To prevent a Linux kernel panic
+B. To start a Linux virtual machine
+C. To provide the executable kernel for the system
+D. To enable resource access to the network

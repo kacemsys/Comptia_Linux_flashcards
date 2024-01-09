@@ -1,0 +1,6 @@
+An administrator needs to see the type of CPU that a server is running. Which of the following
+files contains this information?
+A. /proc/cpuinfo
+B. /etc/devices/info.conf
+C. /dev/proc/cpu
+D. /sys/dev/cpuinfo

@@ -1,0 +1,1 @@
+Answer: CF An administrator wants to know the amount of memory installed on a Linux server.

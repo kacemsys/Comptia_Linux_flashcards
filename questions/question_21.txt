@@ -1,0 +1,5 @@
+Which of the following configuration management tools is considered agentless?
+A. Puppet
+B. Salt
+C. Ansible
+D. Chef

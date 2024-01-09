@@ -1,0 +1,5 @@
+A. It ensures that all file systems listed with the option noauto in /etc/fstab are mounted.
+B. It shows all mounted file systems that have been automatically mounted.
+C. It opens an editor with root privileges and loads /etc/fstab for editing.
+D. It ensures that all file systems listed with the option auto in /etc/fstab are mounted.
+E. It ensures that all file systems listed in /etc/fstab are mounted regardless of their options.

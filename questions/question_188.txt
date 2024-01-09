@@ -1,0 +1,9 @@
+A junior systems administrator is tasked with providing the network_administrators group the
+ability to perform sudo without prompting for a password.
+Which of the following steps should the administrator perform to accomplish this task? (Choose
+two.)
+A. Use visudo to edit the /etc/sudoers file and add network_administrators to the ""wheel"" group
+B. Use vi to edit the /etc/sudo file and add network_administrators to the ""wheel"" group
+C. Provide all network_administrators with the ""root"" account password
+D. Add the network_administrators ALL=(ALL) NOPASSWD: ALL directive to the /etc/sudoers file
+E. Add the network_administrators =(ALL) NOEXEC: ALL directive to the /etc/sudoers file

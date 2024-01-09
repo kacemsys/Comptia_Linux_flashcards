@@ -1,0 +1,9 @@
+A Linux administrator is setting up a testing environment and needs to connect to a separate
+testing server using the production server name. The administrator needs to override the
+hostname that the DNS is returning in order to use the test environment. Which of the following
+commands should be run on each of the testing systems to BEST meet this goal?
+A. # hostnamectl set-hostname “192.168.1.100 production.company.com”
+B. # grep –i IP “${ip addr show} production.company.com” > /etc/resolv.conf
+C. # ip addr add 192.168.1.100/24 dev eth0 && rndc reload
+production.company.com
+D. # echo “192.168.1.100 production.company.com” >> /etc/hosts

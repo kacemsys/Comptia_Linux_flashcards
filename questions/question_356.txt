@@ -1,0 +1,6 @@
+A new packages repository named repo10 has been installed on mirror site. A Linux administrator
+wants to use this new repository for local package installations. In which of the following locations should the administrator store the configuration information for the repo10 repository?
+A. /etc/yum.reps.d/repo10.Repo
+B. /etc/yum_repo.d/repo10
+C. /etc/yum.reps.d/repo10
+D. /etc/yum.conf

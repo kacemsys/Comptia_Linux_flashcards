@@ -1,0 +1,9 @@
+A user is reporting unusual slowness when trying to transfer a large file to an NFS server from a
+workstation. The administrator runs tracepath and gets the following output:
+
+Which of the following BEST describes the issue and a possible solution?
+A. The path MTU is lower than the source MTU. Reduce the source MTU setting.
+B. There is latency at the storage device. Work with the storage team to correct the issue.
+C. There is latency on an intermediate router. Increase the path MTU to compensate.
+D. There are dropped packets at an intermediate router. Work with the network team to correct the
+issue.

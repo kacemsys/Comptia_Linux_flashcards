@@ -1,0 +1,11 @@
+Linux administrator has downloaded the network-tools-12.1-17.i386.rpm package for
+installation to a local system. The administrator issues the rpm -ivh nerwork-cools-12.1-
+17.i386.rpm command to install the package. After attempting to use the newly installed
+package, the administrator realizes the package for the system’s architecture was not installed
+correctly.
+Which of the following commands should the administrator use to remove the package from the
+system?
+A. rpm -e network-tools
+B. rpm -U network-tools-12.1-17.i386.rpm
+C. rpm -ivh network-tools-12.1-17.i686.rpm
+D. rpm -r network-tools

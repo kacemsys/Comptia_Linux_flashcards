@@ -1,0 +1,9 @@
+An administrator is troubleshooting to determine why backups are failing on a particular server.
+The administrator runs the ps command and analyzes the following output.
+
+The administrator runs kill -9 10112 yet the process remains.
+Which of the following BEST describes the issue and how to fix it?
+A. The backup process is still running and needs to be killed with kill -9 --force 10112.
+B. The backup process is a zombie process, and the system needs to be rebooted.
+C. The backup process is out of memory, and more memory needs to be added to the system.
+D. The backup process is using 100% of system resources and needs to be rescheduled with renice.

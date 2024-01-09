@@ -1,0 +1,7 @@
+A Linux administrator needs every new file created on a directory to maintain the group
+permissions of the same directory.
+Which of the following commands would satisfy this requirement?
+A. chmod o+s <directory>
+B. chmod u+s <directory>
+C. chmod +s <directory>
+D. chmod g+s <directory>

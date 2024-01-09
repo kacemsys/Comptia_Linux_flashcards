@@ -1,0 +1,8 @@
+While creating a file on a volume, the Linux administrator receives the following message: No
+space left on device.
+Running the df –m command, the administrator notes there is still 50% of usage left.
+Which of the following is the NEXT step the administrator should take to analyze the issue without losing data?
+A. Run the df –i command and notice the inode exhaustion
+B. Run the df –h command and notice the space exhaustion
+C. Run the df –B command and notice the block size
+D. Run the df –k command and notice the storage exhaustion

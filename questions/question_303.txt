@@ -1,0 +1,12 @@
+An administrator needs to download a monitoring agent called node_exporter.0.16.0-
+Linux.amd64 from the internal web page https://company.local/downloads/. The server does not
+have graphical interface.
+Which of the following commands will accomplish this task?
+A. curl -K https://company.local/downloads/node_exporter.0.16.0-
+Linux.amd64.tar.gz -o node_exporter.tar.gz
+B. curl -k https://company.local/downloads/node_exporter.0.16.0-
+Linux.amd64.tar.gz -o node_exporter.tar.gz
+C. curl --auth https://company.local/downloads/node_exporter.0.16.0-
+Linux.amd64.tar.gz
+D. curl -A https://company.local/downloads/node_exporter.0.16.0-
+Linux.amd64.tar.gz -o node_exporter.tar.gz

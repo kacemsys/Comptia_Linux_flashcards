@@ -1,0 +1,6 @@
+An administrator wants to add a user named comptia to the system administrators group. Which
+of the following commands will accomplish this task?
+A. Usermod -sG wheel comptia
+B. Useradd -sG wheel comptia
+C. visudo -sG wheel comptia
+D. sudo -sG wheel comptia

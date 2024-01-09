@@ -1,0 +1,10 @@
+While trying to access a website hosted on the server, the systems administrator receives the
+following error message:
+
+The administrator then performs some diagnostics:
+
+Which of the following commands should the administrator use to fix the issue?
+A. chown -R www:www /var/www/website
+B. chcon -t httpd_sys_content_t /etc/httpd
+C. chmod -R 777 /var/www/website
+D. restorecon /var/www/html/website/index.html

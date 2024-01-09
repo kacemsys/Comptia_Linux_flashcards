@@ -1,0 +1,7 @@
+A user needs to modify the IP address of a laptop. Which of the following files can be used to
+configure the network interface named eth0?
+A. /etc/sysconfig/network/interfaces.cnf
+B. /system/config/interfaces
+C. /etc/sysconfig/network-scripts/ifcfg-eth0
+D. /system/networking/ifconfig
+E. /etc/interfaces/eth0.conf

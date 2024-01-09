@@ -1,0 +1,6 @@
+Using which of the following control mode commands is the correct way to substitute all
+occurrences of /dev/sdc with /dev/sdd while editing a file in vi?
+A. :s//dev/sdc//dev/sdd
+B. :s/\/dev\/sdc/\/dev\/sdd/g
+C. :s/\/dev\/sdc/\/dev\/sdd
+D. :%s/\/dev\/sdc/\/dev\/sdd

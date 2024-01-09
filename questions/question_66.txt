@@ -1,0 +1,7 @@
+Which of the following commands reboots the system when using SysV init? (Choose TWO
+correct answers.)
+A. shutdown -r now
+B. shutdown -r ""rebooting""
+C. telinit 6
+D. telinit 0
+E. shutdown -k now ""rebooting""

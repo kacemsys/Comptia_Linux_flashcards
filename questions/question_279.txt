@@ -1,0 +1,5 @@
+Which of the following BEST describes the difference between a container and a VM?
+A. Containers share host OS libraries and a kernel, while VMs have their own libraries and kernel.
+B. Containers are larger than VMs.
+C. VMs share host libraries and a kernel, while containers have their own libraries and kernel.
+D. VMs are larger than containers.

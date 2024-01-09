@@ -1,0 +1,5 @@
+Which of the following will the administrator use to find all unsuccessful login attempts?
+A. nsswitch
+B. faillock
+C. pam_tally2
+D. passwd

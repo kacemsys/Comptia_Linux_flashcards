@@ -1,0 +1,7 @@
+A systems administrator is investigating low performance a server. After executing some
+diagnostic commands, the administrator analyzes the data:
+Which of the following is the cause of low performance on the server?
+A. Lack of swap space
+B. Lack of available memory
+C. User processes have taken up all the available CPU time
+D. High disk activity

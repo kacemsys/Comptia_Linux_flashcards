@@ -1,0 +1,8 @@
+A user cannot write files to the /home/user directory. The junior Linux administrator runs the
+following commands:
+
+Which of the following BEST represents why the user cannot write files?
+A. The filesystem is out of inodes.
+B. The filesystem is out of file space.
+C. The filesystem is not configured for the user to write to it.
+D. The filesystem does not have a group write permission.

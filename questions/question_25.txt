@@ -1,0 +1,8 @@
+A junior Linux administrator is optimizing a system in which an application needs to take priority 0
+when running the process. The administrator runs the ps command and receives the following output:
+
+Given this scenario, which of the following steps will address this issue?
+A. Issue the command ronice –n 0 –p 8481
+B. Issue the command renice –p 8481
+C. Issue the command renice –p 0 ~n 8481
+D. Issue the command renice –n 8481

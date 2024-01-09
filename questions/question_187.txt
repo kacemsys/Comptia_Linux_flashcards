@@ -1,0 +1,7 @@
+A Linux systems administrator is implementing Source Code Management for the web application
+server configuration files located in /etc/httpd/. Which of the following steps should the
+administrator perform FIRST?
+A. Clone the remote repository using `git clone'
+B. Create a new repository using `git init'
+C. Retrieve the remote changes using `git commit'
+D. Configure the directory for git using 'git config'

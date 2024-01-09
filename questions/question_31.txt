@@ -1,0 +1,6 @@
+A Linux administrator needs the ""tech"" account to have the option to run elevated commands as root.
+Which of the following commands would BEST meet this goal?
+A. $ su – tech –c “/bin/bash”
+B. # usermod –aG wheel tech
+C. # sudo –I tech
+D. # groupadd –u tech –g root

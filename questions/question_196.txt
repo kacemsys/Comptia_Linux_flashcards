@@ -1,0 +1,8 @@
+HISTSIZE=50
+export HISTSIZE
+The administrator rechecks the HISTSIZE value using echo HISTSIZE but gets no value.
+Which of the following commands should the administrator use to retrieve its value?
+A. printenv | grep $HISTSIZE
+B. echo HISTSIZE
+C. printf HISTSIZE
+D. grep $HISTSIZE

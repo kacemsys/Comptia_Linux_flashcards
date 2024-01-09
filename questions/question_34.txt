@@ -1,0 +1,6 @@
+A Linux administrator needs to take stock of USB devices attached to the system.
+Which of the following commands would be BEST to complete this task?
+A. lspci
+B. lsusb
+C. cat /proc/USB
+D. modprobe -–usb

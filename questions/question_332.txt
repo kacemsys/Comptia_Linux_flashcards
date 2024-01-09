@@ -1,0 +1,7 @@
+The following error is encountered when running a script:
+Which of the following is the cause of this error?
+A. Script.sh was not added to the PATH
+B. The $ ! line is incorrect
+C. Script.sh is missing the executable bit.
+D. The file script. sh does not exist.
+E. Bash is not installed on the system

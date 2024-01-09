@@ -1,0 +1,15 @@
+You have been asked to parse a log file of logins to determine various information about who is
+logging in and when.
+INSTRUCTIONSOpen and inspect the Login log file.
+Drag and drop the correct commands onto the output that was generated from that command.
+Tokens can be used only once and not all will be used.
+If at any time you would like to bring back the initial state of the simulation, please click the Reset
+All button.
+Question 190 "
+A corporate server security policy states, ""Ensure password hashes are not readable by nonadministrative
+users."" The administrator should check the permissions on which of the following
+files to ensure the server satisfies this policy?
+A. /etc/shadow
+B. /etc/passwd
+C. /etc/group
+D. /etc/security/limits.conf

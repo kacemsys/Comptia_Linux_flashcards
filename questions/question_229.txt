@@ -1,0 +1,6 @@
+An administrator receives an alarm because the disk of one of the sewers is running out of space.
+Which of the following commands can be used to see the space that each partition is using?
+A. df -h
+B. du -scg /
+C. fdisk -l
+D. fsck /

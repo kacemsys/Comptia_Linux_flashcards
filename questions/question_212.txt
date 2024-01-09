@@ -1,0 +1,7 @@
+An administrator needs a bootable USB for installing a new Linux machine. The administrator
+downloaded the image file and named it as Linux_OS.iso in the /tmp directory. Which of the
+following commands will accomplish that task?
+A. dd input=/tmp/Linux_OS.iso of=/dev/sda bs=512
+B. dd in=/tmp/Linux_OS.iso out=/dev/sdb bs=512
+C. dd if=/tmp/Linux_OS.iso of=/dev/sda bs=512
+D. dd if=/tmp/Linux_OS.iso out=/dev/sdb1 bs=512

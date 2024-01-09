@@ -1,0 +1,8 @@
+An analyst is trying to determine which public IP addresses are managed by Company A, but the
+script is not working correctly.
+
+Which of the following explains what is wrong with the script?
+A. $(cat ip-list.txt) should be changed to `cat ip-list.txt` in the for statement.
+B. The for should be changed to while in the loop.
+C. The > should be changed to 2> in the do statement.
+D. The -ne flag should be changed to -eq in the if statement.

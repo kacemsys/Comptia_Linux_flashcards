@@ -1,0 +1,7 @@
+A systems administrator needs to allow the Linux server to receive HTTP connections from
+Internet hosts. By default, the port for HTTP connections is blocked. Which of the following rules
+should be added in the firewall to allow this type of connection?
+A. firewall-cmd --zone=public --add-port=443/tcp --permanent
+B. firewall-cmd --zone=internal --add-port=80/tcp --permanent
+C. firewall-cmd --zone=public --add-port=80/tcp --permanent
+D. firewall-cmd --zone=internal --add-port=443/tcp --permanent

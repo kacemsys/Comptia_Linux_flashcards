@@ -1,0 +1,5 @@
+Which of the following is used in unattended server installation via PXE?
+A. Kickstart
+B. YAML
+C. Cloud-init
+D. Container image

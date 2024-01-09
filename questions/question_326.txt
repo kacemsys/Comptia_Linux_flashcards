@@ -1,0 +1,8 @@
+An administrator wants to use a Linux server's GUI remotely but is limited by security to using
+TCP port 22.
+Which of the following is the BEST choice for installation on the Linux server to enable this
+functionality?
+A. X-forwarding
+B. NX
+C. VNC
+D. XRDP

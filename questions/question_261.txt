@@ -1,0 +1,9 @@
+A new IO card has been added to the security server to log the opening and closing of the main
+entrance.
+A switch is attached, so the interface card returns a 1 when the door is opened and a 0 when the
+door is closed.
+Which of the following describes the Linux device to which this switch is attached?
+A. /dev/tty0
+B. /dev/port
+C. /dev/gpio
+D. /dev/sg0

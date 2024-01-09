@@ -1,0 +1,7 @@
+An administrator notices a directory on a web server named /var/www/html/old_reports that
+should no longer be accessible on the web. Which of the following commands will accomplish this
+task?
+A. chmod 000 /var/www/html/old_reports
+B. chgrp root /var/www/html/old_reports
+C. chown apache /var/www/html/old_reports
+D. setenforce apache /var/www/html/old_reports

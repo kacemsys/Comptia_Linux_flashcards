@@ -1,0 +1,11 @@
+A junior systems administrator is diagnosing an issue with latency. The administrator issues the
+command at a terminal and receives the following output: mtr www.comptia.org
+
+Given this scenario and the output, which of the following should be reported to the network team
+for investigation? (Choose two.)
+A. Host 1 is set to filter ICMP reply packets.
+B. Host 1 is set to filter ICMP echo packets.
+C. Host 2 is experiencing high packet loss, indicating the link is overloaded.
+D. Host 2 is experiencing low bandwidth, indicating the ISP is blocking traffic.
+E. Host 3 is set to filter ICMP reply packets.
+F. Host 3 is set to filter ICMP echo packets.

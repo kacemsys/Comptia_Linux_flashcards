@@ -1,0 +1,5 @@
+In which of the following directories is the vmlinuz file located?
+A. /boot
+B. /etc
+C. /bin
+D. /proc

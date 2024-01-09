@@ -1,0 +1,7 @@
+An administrator received a request from a security officer to eliminate a blacklisting set called
+internal-blocked the company is using in the iptables firewall.
+Which of the following commands will complete the task?
+A. ipset swap internal-blocked none
+B. ipset destroy internal-blocked
+C. ipset del internal-blocked
+D. ipset remove internal-blocked

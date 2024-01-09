@@ -1,0 +1,9 @@
+A Linux user uses a VPN to securely access the company's systems from a laptop.
+Which of the following protocols are MOST likely used to secure the VPN connection? (Choose
+two.)
+A. IPSec
+B. HTTP
+C. SFTP
+D. VNC
+E. SSL/TLS
+F. SELinux

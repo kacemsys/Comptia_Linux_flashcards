@@ -1,0 +1,13 @@
+A Linux administrator is checking connectivity between two servers in separate subnets:
+Server A: 10.1.2.20 (source)
+Server B: 10.2.1.10 (destination on port 8080)
+The administrator tried to run the curl 10.2.1.10:8080 command on server A and received
+the following output:
+curl: (7) Failed to connect to 10.2.1.10 port 8080: Connection refused.
+The administrator checked on server B and confirmed nothing is listening on port 8080.
+Which of the following commands, when run on server B, would have allowed the administrator to
+test the connection successfully?
+A. tcpdump ‘tcp port 8080’
+B. ss -l -p dport=8080 dst 10.2.1.10
+C. nc -l -p 8080 10.2.1.10
+D. nmap -v -p 8080 10.2.1.10

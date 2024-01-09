@@ -1,0 +1,5 @@
+Which of the following is the template for the grub.cfg file?
+A. /etc/default/grub
+B. /etc/grub2.cfg
+C. /etc/sysct1.conf
+D. /boot/efi

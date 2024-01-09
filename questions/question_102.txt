@@ -1,0 +1,9 @@
+A systems administrator is enabling quotas on the /home directory of a Linux server. The
+administrator makes the appropriate edits to the /etc/fstab file and attempts to issue the
+commands to enable quotas on the desired directory. However, the administrator receives an
+error message stating the filesystem does not support quotas.
+Which of the following commands should the administrator perform to proceed?
+A. mount –o remount /home
+B. quotacheck -cg
+C. edquota /home
+D. quotaon /home

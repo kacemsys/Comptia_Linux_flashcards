@@ -1,0 +1,1 @@
+Answer: C "An administrator reviews the following configuration file provided by a DevOps engineer:

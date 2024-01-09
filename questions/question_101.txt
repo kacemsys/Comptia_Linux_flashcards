@@ -1,0 +1,8 @@
+A Linux administrator wants to obtain a list of files and subdirectories in the /etc directory that
+contain the word ""services"". Once the files and subdirectories are discovered, they should be
+listed alphabetically in the /var/tmp/foundservices file.
+Which of the following shell scripts will accomplish this task?
+A. #/bin/bash find /etc –name services | sort > /var/tmp/foundservices
+B. #/bin/bash locate /etc –sort –name services > /var/tmp/foundservices
+C. #/bin/bash find –name services –sort </var/tmp/foundservices
+D. #/bin/bash find /etc –name services –sort > /var/tmp/foundservices

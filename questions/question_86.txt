@@ -1,0 +1,11 @@
+A Linux administrator implemented a new HTTP server using the default configuration.
+None of the users on the network can access the server. If there is no problem on the network or
+with the users' workstations, which of the following steps will BEST analyze and resolve the
+issue?
+A. Run netstat to ensure the port is correctly bound, and configure the firewall to allow access on ports
+80 and 443
+B. Run route to ensure the port is correctly bound, and configure the firewall to allow access on ports 80 and 443
+C. Run netcat to ensure the port is correctly bound, and configure a static route to the web to allow
+access on ports 80 and 443
+D. Run route to ensure the port is correctly bound, and configure SELinux to allow access on ports 80
+and 443

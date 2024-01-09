@@ -1,0 +1,10 @@
+QUESTION 332
+A systems administrator is editing a service file for the web server. In order to continue testing, all web server processes must be shut down. The administrator accomplishes this with the following
+commands:
+Based on the command output above, which of the following BEST explains how this was
+accomplished?
+A. Killing the parent process with -15 gives it a chance to kill all of the child processes.
+B. The -15 signal will allow the kill command to automatically seek out all child processes and kill
+them as well.
+C. The -15 signal tells the kill command to kill all processes matching the Apache string.
+D. The -15 signal gracefully kills the process and all Its parent and child processes.

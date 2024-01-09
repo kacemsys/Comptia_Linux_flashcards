@@ -1,0 +1,6 @@
+A junior Linux administrator needs to access production servers using a secure SSH protocol.
+Which of the following files should contain the public key to gain remote access to the server?
+A. ~/ssh/authorized-keys
+B. /etc/authorized_keys
+C. /etc/sshd/ssh.conf
+D. ~/.ssh/authorized_keys

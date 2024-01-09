@@ -1,0 +1,7 @@
+A systems administrator manually added a new library to the server. The administrator wants to
+rebuild the library cache for immediate use.
+Which of the following commands should the systems administrator run to achieve this goal?
+A. make install
+B. ldconfig
+C. make
+D. ldd

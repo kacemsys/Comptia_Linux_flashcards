@@ -1,0 +1,9 @@
+A Linux system is running normally when the systems administrator receives an alert that one
+application spawned many processes.
+The application is consuming a lot of memory, and it will soon cause the machine to become
+unresponsive.
+Which of the following commands will stop each application process?
+A. kill ‘pidof application’
+B. killall application
+C. kill -9 ‘ps –aux | grep application’
+D. pkill -9 application

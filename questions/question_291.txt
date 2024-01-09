@@ -1,0 +1,9 @@
+A newly installed desktop is unable to connect to networked resources. The systems
+administrator executes various commands and reviews the following output snippets:
+
+Which of the following should the systems administrator try NEXT to restore connectivity?
+A. arp -s 20:ad:1f:ab:10:0f 192.168.1.10
+B. route add -net 192.168.1.0 netmask 255.255.255.0
+C. dig -x @127.0.0.1 192.168.1.10
+D. ip link set wlo1 up
+E. killall -HUP NetworkManager

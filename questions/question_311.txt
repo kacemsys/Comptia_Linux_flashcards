@@ -1,0 +1,7 @@
+Which of the following server roles utilize a heartbeat/polling process? (Choose two.)
+A. Proxy
+B. Certificate authority
+C. Logging
+D. File server
+E. Cluster
+F. Load balancer

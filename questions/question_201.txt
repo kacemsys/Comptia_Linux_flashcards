@@ -1,0 +1,6 @@
+A Linux administrator is restoring the SELinux contexts on an entire system. Which of the
+following commands is the BEST option to complete this task?
+A. setenforce 0 && reboot
+B. setfacl -bR / && reboot
+C. touch /.autorelabel && reboot
+D. restorecon / && reboot

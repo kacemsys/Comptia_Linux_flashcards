@@ -1,0 +1,10 @@
+QUESTION 325
+A Linux administrator created a new log file in /var/log/newlog to monitor a newly installed
+application. The administrator is now configuring parameters of the file so it will be rotated on a
+weekly basis or when it becomes larger than 1MB in size. In addition, five rotations of the file
+should exist in the /var/log directory.
+Which of the following should be added to the /etc/logrotate.conf file to meet this objective?
+A.
+B.
+C.
+D.

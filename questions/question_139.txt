@@ -1,0 +1,8 @@
+A systems administrator wants to download a package from a remote server.
+Which of the following are the BEST commands to use for this task? (Choose two.)
+A. curl
+B. wget
+C. make
+D. tar
+E. zip
+F. nc

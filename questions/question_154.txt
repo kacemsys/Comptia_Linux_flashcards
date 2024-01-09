@@ -1,0 +1,6 @@
+A Linux administrator wants to configure log messages of critical or higher severity levels from the
+cron utility to be logged to the console. Which of the following will accomplish this objective?
+A. Edit the /etc/logrotate.d/cron file to include the line cron.emerg.* /dev/console
+B. Edit the /etc/rsyslog.conf file to include the line cron.emerg.* /dev/console
+C. Edit the /etc/logrotate.conf file to include the line cron.emerg.* /dev/console
+D. Edit the /etc/rsyslog.d/conf file to include the line cron.emerg.* /dev/console

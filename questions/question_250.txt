@@ -1,0 +1,13 @@
+A Linux administrator recently changed the IP addresses of all the web servers from 10.10.50.x to
+10.10.100.x. The administrator needs to update the serverlist.txt file to reflect the change.
+The file contains the following:
+10:WebSvr01:10.10.50.21:Main
+11:WebSvr02:10.10.50.22:Acconting
+12:WebSvr03:10.10.50.23:Intranet
+20:NFS01:10.10.20.21:FileServer
+30:SMTP01:10.10.30.31:Email
+Which of the following commands will change the IP addresses and update the files in place?
+A. sed 's|.50|.100|g' serverlist.txt
+B. sed -g 's|.50|.100|a' serverlist.txt
+C. sed -i 's|.50|.100|' serverlist.txt
+D. sed -i 's|.50|.100|g' serverlist.txt

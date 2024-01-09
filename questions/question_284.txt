@@ -1,0 +1,7 @@
+A Linux administrator is developing a Bash script to close specific ports on a server firewall. The
+administrator is not certain of the default port for the Internet Message Access Protocol.
+Which of the following files should the administrator check to determine the default port?
+A. /etc/network
+B. /etc/default/ufw
+C. /etc/resolv.conf
+D. /etc/services

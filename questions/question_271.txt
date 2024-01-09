@@ -1,0 +1,7 @@
+A user is unable to write data to an NFS datastore at /mnt/storage. A df command indicates 50%
+free inodes.
+Which of the following commands should the user attempt NEXT to diagnose the situation?
+A. df -h /mnt/storage
+B. du -sh /mnt
+C. fdisk -l /mnt/storage
+D. df -i /mnt/storage

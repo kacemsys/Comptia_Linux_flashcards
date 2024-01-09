@@ -1,0 +1,6 @@
+Which of the following statements is correct when talking about /proc/?
+A. All changes to files in /proc/ are stored in /etc/proc.d/ and restored on reboot.
+B. All files within /proc/ are read-only and their contents cannot be changed.
+C. All changes to files in /proc/ are immediately recognized by the kernel.
+D. All files within /proc/ are only readable by the root user.
+

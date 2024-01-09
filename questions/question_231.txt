@@ -1,0 +1,7 @@
+A junior systems administrator needs to make a packet capture file that will only capture HTTP
+protocol data to a file called test.pcap.
+Which of the following commands would allow the administrator to accomplish this task?
+A. netcat -p 80 -w test.pcap
+B. tshark -r test.pcap -o http
+C. tcpdump -i eth0 port 80 -r test.pcap
+D. tcpdump -i eth0 port 80 -w test.pcap

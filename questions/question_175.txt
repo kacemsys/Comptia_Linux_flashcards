@@ -1,0 +1,7 @@
+Which of the following would allow remote users to access a corporate server? (Choose two.)
+A. VPN server
+B. SMTP server
+C. NTP server
+D. SSH server
+E. DHCP server
+F. File server

@@ -1,0 +1,12 @@
+A Linux administrator built a GitLab server. Later that day, a software engineer tried to access the
+server to upload the repository during the final step of installation.
+The software engineer could not access the website.
+Which of the following firewall rules would allow access to this site?
+A. iptables –A INPUT –p tcp –m multiport --dports 80,443 –m conntrack –
+cstate NEW, ESTABLISHED –j ACCEPT
+B. iptables –A INPUT –p tcp –m multiport --dports 80,443 –m conntrack –
+cstate ESTABLISHED –j ACCEPT
+C. iptables –A INPUT –p tcp –m multiport --dports 80,443 –m conntrack –
+cstate RELATED, ESTABLISHED –j ACCEPT
+D. iptables –A INPUT –p tcp –m multiport --dports 80,443 –m conntrack –
+cstate NEW, ESTABLISHED –j REJECT

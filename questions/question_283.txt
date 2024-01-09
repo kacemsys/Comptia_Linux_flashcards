@@ -1,0 +1,6 @@
+Which of the following commands allow an administrator to determine if the current system is a
+virtual machine?
+A. lspci
+B. mdadm
+C. vmstat
+D. vgdisplay

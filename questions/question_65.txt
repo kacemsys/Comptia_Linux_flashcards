@@ -1,0 +1,6 @@
+Which of the following information is stored within the BIOS? (Choose TWO correct answers.)
+A. Boot device order
+B. Linux kernel version
+C. Timezone
+D. Hardware configuration
+E. The system's hostname

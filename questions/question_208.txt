@@ -1,0 +1,22 @@
+A systems administrator is implementing disk quotas on /home. During the process, the
+administrator receives the following error:
+Cannot find filesystem to check or filesystem not mounted with user
+quota option.
+Which of the following is the correct order of steps the administrator should follow to resolve this
+error?
+A. 1. Verify if /home has quotas enabled in /etc/fstab and, if not, enable it.
+2. Remount /home.
+3. Create the quota database files and generate the disk usage table.
+4. Assign user quota policies.
+B. 1. Create the quota database files and generate the disk usage table.
+2. Verify if /home has quotas enabled in /etc/fstab and, if not, enable it.
+3. Remount /home.
+4. Assign user quota policies.
+C. 1. Verify if /home has quotas enabled in /etc/fstab and, if not, enable it.
+2. Create the quota database files and generate the disk usage table.
+3. Remount /home.
+4. Assign user quota policies.
+D. 1. Assign user quota policies.
+2. Verify if /home has quotas enabled in /etc/fstab and, if not, enable it.
+3. Create the quota database files and generate the disk usage table.
+4. Remount /home.

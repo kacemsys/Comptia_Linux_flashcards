@@ -1,0 +1,5 @@
+The dracut command is used to:
+A. create initial RAMDisk images for preloading modules.
+B. compile the Linux kernel images used to boot the OS.
+C. create the bootloader executable files.
+D. create the Boot Manager configuration files.

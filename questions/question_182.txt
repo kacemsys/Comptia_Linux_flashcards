@@ -1,0 +1,6 @@
+A new user has been added to a Linux machine. Which of the following directories would contain
+the user's default files?
+A. /etc/login.defs
+B. /etc/passwd
+C. /etc/skel
+D. /etc/inittab

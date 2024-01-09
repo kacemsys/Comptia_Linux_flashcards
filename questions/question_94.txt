@@ -1,0 +1,7 @@
+A Linux administrator needs to back up the folder /usr/domain, and the output must be a gzip
+compressed tar.
+Which of the following commands should be used?
+A. tar –cv domain.tar.gz /usr/domain
+B. tar –cvf /usr/domain domain.tar.gz
+C. tar –czvf domain.tar.gz /usr/domain
+D. tar –cxzv /usr/domain domain.tar.gz

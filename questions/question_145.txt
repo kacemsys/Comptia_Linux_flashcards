@@ -1,0 +1,9 @@
+A Linux engineer is troubleshooting a newly added SCSI device for a Linux server that needed
+more disk space without rebooting. The engineer discovers that the new device is not visible by
+the Linux kernel in output.
+Which of the following commands should be used to rescan the entire SCSI bus?
+fdisk -l
+A. echo ""- - -"" > /sys/class/scsi_host/host0/scan
+B. echo ' ' > /sys/class/scsi_host/host0/scan
+C. echo ""- - -"" > /sys/scsi/scsi_host/host0/scan
+D. echo ""scan"" > /sys/class/scsi_host/host0/scan

@@ -1,0 +1,8 @@
+Ann, a junior Linux administrator, needs to copy software from her local machine to assist in
+developing a software application on a remote machine with the IP address 192.168.3.22. The file
+needs to be placed on the /tmp directory. After downloading the RPM to the local machine, which
+of the following commands would be BEST to use to copy the software?
+A. scp ~/software.rpm USER@192.168.3.22:/tmp
+B. scp ~/software.rpm USER@192.168.3.22 /tmp
+C. wget USER@192.168.3.22:/tmp -f ~/software.rpm
+D. scp USER@192.168.3.22 ~/software.rpm :/tmp

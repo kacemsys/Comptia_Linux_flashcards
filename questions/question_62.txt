@@ -1,0 +1,7 @@
+Which run levels should never be declared as the default run level when using SysV init?
+(Choose TWO correct answers.)
+A. 0
+B. 1
+C. 3
+D. 5
+E. 6

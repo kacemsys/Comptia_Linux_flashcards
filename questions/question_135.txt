@@ -1,0 +1,16 @@
+An administrator is troubleshooting an application that has failed to start after the server was
+rebooted. Noticing the data volume is not mounted, the administrator attempts to mount it and
+receives this error:
+
+Upon checking the logical volume status, the administrator receives this information:
+
+Which of the following can be said about the data logical volume, and how can this problem be
+resolved?
+A. The logical volume is not active. The administrator should make it active with lvchange -ay
+/dev/datavg/datalv and then mount it.
+B. The logical volume file system has become corrupted. The administrator should repair it with
+xfs_repair /dev/datavg/datalv and then mount it.
+C. The logical volume is OK but the /dev special files are missing. The administrator should
+recreate them by running /dev/MAKEDEV.
+D. The file system is read-only. The administrator should remount it as read-write with the command
+mount -o remount.rw /data.

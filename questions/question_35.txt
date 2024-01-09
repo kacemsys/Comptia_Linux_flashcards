@@ -1,0 +1,7 @@
+
+Which of the following commands can be used to remove MyPhoto.jpg from the current directory?
+A. unlink ./MyPhoto.jpg
+B. del Pictures/photo.jpg
+C. rm –rf ./Pictures
+D. rm –f MyPhoto.jpg
+E. ln –rm ./Pictures/photo.jpg

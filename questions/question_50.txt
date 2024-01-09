@@ -1,0 +1,7 @@
+After starting a long-running script, a systems administrator needs to verify the frequency of what
+is filling up the /var partition and kill it because it is consuming too much space.
+Which of the following is the correct sequence given only a terminal is available?
+A. 1. CTRL-C 2. bg 3. watch df /var 4. CTRL-C 5. fg 6. CTRL-Z
+B. 1. CTRL-C 2. fg 3. watch df /var 4. CTRL-Z 5. bg 6. CTRL-Z
+C. 1. CTRL-Z 2. bg 3. watch df /var 4. CTRL-C 5. fg 6. CTRL-C
+D. 1. CTRL-Z 2. bg 3. watch df /var 4. CTRL-Z 5. fg 6. CTRL-C

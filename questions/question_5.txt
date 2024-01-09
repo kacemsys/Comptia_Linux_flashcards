@@ -1,0 +1,6 @@
+A junior Linux administrator is trying to verify connectivity to the remote host host1 and display round -trip statistics for ten ICMP.
+Which of the following commands should the administrator execute?
+A. ping –c 10 host1
+B. traceroute –c 10 host1
+C. netstat host1
+D. pathping –c 10 host1

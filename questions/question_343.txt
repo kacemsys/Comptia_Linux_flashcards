@@ -1,0 +1,6 @@
+Which of the following is considered best practices when using definition files for the provisioning
+of Linus servers to the cloud?
+A. Build automation
+B. Container orchestration
+C. Infrastructure as code
+D. Continuous integration

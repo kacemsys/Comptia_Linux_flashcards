@@ -1,0 +1,9 @@
+
+All necessary files exist in the correct locations. However, when the administrator executes
+/home/user/test.sh the following error is received:
+No such file or directory
+Which of the following is the MOST likely cause of the error?
+A. The shebang points to the wrong path.
+B. The script is not executable.
+C. The formatting of the file is incorrect.
+D. Nslookup is not installed.

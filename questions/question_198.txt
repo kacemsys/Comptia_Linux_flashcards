@@ -1,0 +1,15 @@
+A systems administrator downloads an application's source files, compiles the application, and
+installs it per the application's installation instructions. When trying to run the application, the
+system states:
+$ occmd
+bash: occmd: command not found...
+Running the locate command shows it does exist in the following location:
+/opt/occmd/bin/occmd
+Which of the following should the administrator do to allow the command to run properly?
+(Choose two.)
+A. sudo ln -s /opt/occmd/bin/occmd /usr/local/bin/occmd
+B. echo ""export PATH=$PATH:/opt/occmd/bin"" >> ~/.bashrc
+C. mv /opt/occmd ~/ && ln -s ~/occmd/bin/occmd ./occmd
+D. echo ""#!/bin/bash \n ${which occmd}"" > /usr/bin/occmd.sh
+E. sudo mv /opt/occmd/bin/occmd /etc/bin/
+F. cd /opt/occmd/bin && chmod +x ./occmd && restorecon -rv *

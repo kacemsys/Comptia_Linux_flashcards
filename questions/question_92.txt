@@ -1,0 +1,5 @@
+Which of the following is modified to reconfigure the boot environment?
+A. grub-mkconfig
+B. grub.cfg
+C. update-grub
+D. grub2-mkconfig

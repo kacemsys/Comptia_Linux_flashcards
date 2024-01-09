@@ -1,0 +1,12 @@
+Joe, a member of the accounting group on a Linux system, is unable to write a file called ""taxes""
+in the accounting shared directory. The ownership and permissions on the directory and file are
+as follows:
+accounting drwxrw-r-- user = ann, group = accounting
+taxes -rw-r--r-- , user = ann, group = accounting
+Which of the following commands would allow Joe to write to the file? (Choose two.)
+A. chmod g+x accounting
+B. chmod 777 taxes
+C. chgrp taxes accounting
+D. chgrp accounting taxes
+E. chmod 774 accounting
+F. chmod u+x accounting

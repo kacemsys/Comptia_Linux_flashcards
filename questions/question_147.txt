@@ -1,0 +1,6 @@
+A systems administrator wants to mount an ISO to access its content. Using /mnt as a mount
+point, which of the following is the correct syntax?
+A. mount -o iso9660 /dev/sr0 /mnt
+B. mount -o loop -t iso /mnt
+C. mount -o loop /tmp/image.iso /mnt
+D. mount -o loop /dev/kvm /mnt

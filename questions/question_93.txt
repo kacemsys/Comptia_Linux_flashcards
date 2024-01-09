@@ -1,0 +1,7 @@
+A company wants to ensure that all newly created files can be modified only by their owners and
+that all new directory content can be changed only by the creator of the directory. 
+Which of the following commands will help achieve this task?
+A. umask 0022
+B. umask 0012
+C. chmod –R 0644 /
+D. chmod –R 0755 /

@@ -1,0 +1,8 @@
+Which of the following commands should a system administrator use to configure a passwordless
+login to remote system? (Select TWO.)
+A. Cp
+B. Ssh-agent
+C. Ssh-copy-id
+D. Ssh-keygen
+E. Ssh-add
+F. openssl

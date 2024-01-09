@@ -1,0 +1,5 @@
+Which of the following will provide a list of all flash, external, internal, and SSD drives?
+A. lspci
+B. lsmod
+C. lsblk
+D. lsusb

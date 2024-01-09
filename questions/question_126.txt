@@ -1,0 +1,6 @@
+A junior Linux administrator needs to ensure a service will start on system boot.
+Which of the following commands should be used to accomplish this task?
+A. chkconfig <service> on
+B. systemctl <service> bootup
+C. service <service> enable
+D. crontab install <service>

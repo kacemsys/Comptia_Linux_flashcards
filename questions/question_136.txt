@@ -1,0 +1,8 @@
+A four-drive Linux NAS has been improperly configured. Each drive has a capacity of 6TB, for a
+total storage capacity of 24TB. To reconfigure this unit to be not pluggable for drive replacement
+and provide total storage of 11TB to 12TB, which of the following would be the correct RAID
+configuration?
+A. RAID 01
+B. RAID 03
+C. RAID 10
+D. RAID 50

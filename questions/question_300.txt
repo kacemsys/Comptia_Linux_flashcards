@@ -1,0 +1,6 @@
+An administrator is trying to access a server in a cloud via SSH but is unable to log in. The administrator determines the company’s IP address has been blocklisted on the server.
+Which of the following should the administrator do to prevent being blocked in the future?
+A. Add the company’s TLS certificate to the authorized_keys and known_hosts files.
+B. Modify the cloud provider security rules to allow all connectors from the company’s IP address.
+C. Add the company’s IP address from the /etc/hosts.allow.
+D. Turn on SELinux and enable the SSH context.

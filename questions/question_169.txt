@@ -1,0 +1,12 @@
+An administrator needs to create a file named hello in the home directory that contains the
+following text:
+it's me!
+Which of the following commands would accomplish this goal?
+A. mkdir ~/hello
+touch ~/""it's me!""
+B. touch ~/hello
+echo ""it's me!"" > ~/hello
+C. mv ~/hello
+cp ""it's me!"" > ~/hello
+D. type ~/hello
+print ""it's me!""

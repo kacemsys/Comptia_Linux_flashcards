@@ -1,0 +1,6 @@
+An administrator is adding an existing user named `'buddy'' to the Apache group.
+Which of the following should the administrator perform to accomplish this task?
+A. sseradd -g apache buddy
+B. ssermod -g apche buddy
+C. sudo useradd -g apache buddy
+D. sudo usermod -g apachebuddy

@@ -1,0 +1,7 @@
+A Linux server needs to be accessed, but the root password is not available.
+Which of the following would BEST allow an administrator to regain access and set a new known
+password at the same time?
+A. Boot into a single-user mode and reset the password via the passwd command.
+B. Boot into a single-user mode and reset the password by editing the /etc/passwd file.
+C. Boot into a single-user mode and reset the password by editing the /etc/shadow file.
+D. Boot into a single-user mode and reset the password via the chage command.

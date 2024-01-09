@@ -1,0 +1,11 @@
+A junior systems administrator is scanning archive.tar files with an antivirus scanner. The
+administrator is given the following tasks:
+- List all files that are in the archive.tar files.
+- Extract all files from the archive.tar files.
+Which of the following actions should be performed to meet these requirements? (Choose two.)
+A. tar -tvf archive.tar
+B. tar -xf archive.tar
+C. tar -A archive.tar
+D. tar -av archive.tar
+E. tar -r archive.tar
+F. tar -uvz archive.tar

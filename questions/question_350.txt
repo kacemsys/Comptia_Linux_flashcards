@@ -1,0 +1,9 @@
+Joe, a system administrator, realizes that the time zone on a system is different than his local
+time zone. Joe runs the command export Tz-America .Chicago to resolve this. However the next
+Joe logs in, Joe notices the issue has returned.
+Which of the following is the BEST way for Joe to fix this issue so the solution persists across
+logins?
+A. Run the export Tz=/etc/localtime command
+B. Set the correct the zone with the date command.
+C. Add the export Tz=America/Chicage command to the bash_profile file.
+D. Run the export LC ALL=America/Chicago command

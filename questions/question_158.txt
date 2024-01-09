@@ -1,0 +1,6 @@
+A security administrator wants to display a warning banner before a user logs in.
+Which of the following files must be edited to make this happen?
+A. /etc/services
+B. /etc/issue
+C. /etc/hosts
+D. /etc/motd

@@ -1,0 +1,6 @@
+A server is almost out of free memory and is becoming unresponsive.
+Which of the following sets of commands will BEST mitigate the issue?
+A. free, fack, partprobe
+B. lsof, lvcreate, mdadm
+C. df, du, rmmod
+D. fdisk, mkswap, swapon -a
