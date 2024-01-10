@@ -31,8 +31,9 @@ print_error() {
 
 # Print Score
 print_score() {
+percentage=$(echo "scale=2; $correct_answers / $total_questions * 100 " | bc)
 echorange  "╔════════════════════════════════════════════════════════════════════════════════════╗"
-echorange  "║        Your Score: $correct_answers correct answer(s) out of $total_questions total question(s).                 ║"
+echorange  "║        Your Score: $percentage % ,  $correct_answers correct answer(s) out of $total_questions total question(s).     ║"
 echorange  "╚════════════════════════════════════════════════════════════════════════════════════╝"
 }
 
@@ -83,7 +84,7 @@ while true; do
           print_success "Correct! Well done!"
           ((correct_answers++))  # Increment correct answers
         else
-          print_error "Incorrect. The correct answer was : $correct_option"
+          print_error "Incorrect. The correct answer to the previous question  was : $correct_option"
         fi
 
         ((total_questions++))  # Increment total questions
