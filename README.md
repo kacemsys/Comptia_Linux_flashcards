@@ -27,7 +27,7 @@ The Comptia Linux+ Flashcards is a Bash script designed for interactive learning
   ```./comptia_linux_flashcards.sh```
 5. Follow the on-screen instructions to answer the questions
 
-6. Press ```Ctrl + c``` if you to exit
+6. Press ```Ctrl + c``` if you want to exit
 
 
 ## Installation
