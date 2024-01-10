@@ -20,25 +20,33 @@ print_success() {
 }
 
 # Print Error Message in Red
+echorange() {
+  echo -e "\e[38;5;208m$1\e[0m"  # 38;5;208 corresponds to orange, 0 resets the color
+}
+
+
 print_error() {
   echo -e "\e[31m$1\e[0m"  # 31 corresponds to red, 0 resets the color
 }
 
 # Print Score
 print_score() {
-  echo "Your Score: $correct_answers correct answer(s) out of $total_questions total question(s)."
+echorange  "╔════════════════════════════════════════════════════════════════════════════════════╗"
+echorange  "║        Your Score: $correct_answers correct answer(s) out of $total_questions total question(s).                 ║"
+echorange  "╚════════════════════════════════════════════════════════════════════════════════════╝"
 }
 
 # Script Execution Starts Here
 
 echo ""
 echo "╔═══════════════════════════════════════════════════════════════════════╗"
-echo "║                     Comptia Linux+ Flashcards	                      ║"
+echo "║                     Comptia Linux+ Flashcards	                        ║"
 echo "╚═══════════════════════════════════════════════════════════════════════╝"
 echo "Welcome to the Linux Flashcards quiz, designed for interactive learning."
 echo "Feel free to test your knowledge and press Ctrl+C to quit at any time."
-echo "═════════════════════════════════════════════════════════════════════════"
+echo "If the answser is more than one option write both options, eg. A and B , type  ab or AB" 
 echo " Aboulkacem KRADRA @kacemsys"
+echo "═════════════════════════════════════════════════════════════════════════"
 echo ""
 
 # Main Loop for Flashcards Quiz
@@ -59,23 +67,31 @@ while true; do
         # Check the user's answer against the correct answer
         correct_answer=$(<"$answer_file")
 
-        correct_option=$(echo "$correct_answer" | grep -oE 'Answer: [A-Z]+' | grep -oE '[A-Z]$')
+        correct_option=$(echo "$correct_answer" | grep -oP 'Answer: \K[A-Z]+')
 
         # Enable case-insensitive matching
         shopt -s nocasematch
+
+	#Clear the screen
+	clear
+
+	echo ""
+	echo ""
 
         # Evaluate user's response and update the scores
         if [[ "$user_answer" == "$correct_option" ]]; then
           print_success "Correct! Well done!"
           ((correct_answers++))  # Increment correct answers
         else
-          print_error "Incorrect. The correct answer is: $correct_option"
+          print_error "Incorrect. The correct answer was : $correct_option"
         fi
 
         ((total_questions++))  # Increment total questions
 
         # Display the current score
         print_score
+
+
 done
 
 # Disable case-insensitive matching
